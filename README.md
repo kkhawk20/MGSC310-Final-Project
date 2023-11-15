@@ -11,7 +11,7 @@ Method :
   * Use python script to grab each company's investor relations website
   * Download all quarterly reports for 2023, or released reports as of November 14, 2023
   * Utilized Chapman server, github repositories, and google drive to build and run jupyter notebooks on server as well as coding in both Google Colab and VSCode
-  * Found github repository online containing stock data from 2015-2016, and 3 companies press releases at the same time
+  * Found github repository online containing press release data from 2015-2016 for many companies in CSV format, and 3 companies press releases at the same time
 
   Language Model for Text data
   * Build BERT model (Language model) to utilize transformers and embeddings in a model trained on the press report data for each company over a few quarters
