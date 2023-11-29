@@ -1,0 +1,766 @@
+SOFI TECHNOLOGIES, INC. REPORTS
+THIRD QUARTER 2023 RESULTS
+Record GAAP and Adjusted Net Revenue for Third Quarter 2023
+GAAP Net Revenue of $537 Million Up 27%; $531 Million Adjusted Net Revenue Up 27% Year-over-Year
+Record Adjusted EBITDA of $98 Million Up 121% Year-over-Year
+GAAP EPS Loss of $0.29; EPS Loss Excluding the Impact of Goodwill Impairment of $0.03
+New Member Adds of Over 717,000; Quarter-End Total Members Up 47% Year-over-Year to Over 6.9 Million
+New Product Adds of Nearly 1,047,000; Quarter-End Total Products Up 45% Year-over-Year to Over 10.4 Million
+Total Deposit Growth of $2.9 Billion, Up 23% During the Third Quarter to $15.7 Billion
+$68 Million Growth in Tangible Book Value, $171 Million on a Trailing 12 Month Basis
+Management Raises Full-Year 2023 Guidance
+SAN FRANCISCO, Calif. – (BUSINESS WIRE) – October 30, 2023 – SoFi Technologies, Inc. (NASDAQ: SOFI),
+a member-centric, one-stop shop for digital financial services that helps members borrow, save, spend, invest and
+protect their money, reported financial results today for its third quarter ended September 30, 2023.
+“We delivered another quarter of record financial results and generated our tenth consecutive quarter of record
+adjusted net revenue of $531 million. We saw record new member adds of 717,000 and accelerating growth of 47%
+for total ending members of over 6.9 million, along with record new product adds of over 1 million, also with
+accelerating growth of 45% to over 10 million total products. Record revenue at the company level was driven by
+record revenue across all three of our business segments, with 67% of adjusted net revenue growth coming from our
+non-Lending segments (Technology Platform and Financial Services segments). On a consolidated level, we saw
+sequential and year-over-year expansion in our net interest margin to 5.99% and record sequential deposit growth of
+$2.9 billion. We also generated record adjusted EBITDA of $98 million, representing a 48% incremental adjusted
+EBITDA margin and a 18% margin overall, with all three business segments profitable as the Financial Services
+segment posted positive contribution profit for the first time. Excluding the impact of a non-cash impairment of
+goodwill assets, we would have had a net loss of $19.5 million and an EPS loss of $0.03, which reinforces our
+confidence in achieving positive GAAP net income in the fourth quarter of 2023. Finally, we generated $68 million
+in tangible book value growth in the quarter and $171 million on a trailing 12-month basis,” said Anthony Noto,
+CEO of SoFi Technologies, Inc.
+Consolidated Results Summary
+Three Months Ended September 30,
+($ in thousands, except per share amounts) 2023 2022 % Change
+Consolidated – GAAP
+Total net revenue............................................................................................... $ 537,209 $ 423,985 27 %
+Net loss.............................................................................................................. (266,684) (74,209) 259 %
+Net loss attributable to common stockholders – basic and diluted(1) ................. (276,873) (84,398) 228 %
+Loss per share attributable to common stockholders – basic and diluted.......... (0.29) (0.09) 222 %
+Consolidated – Non-GAAP
+Adjusted net revenue(2)...................................................................................... $ 530,717 $ 419,256 27 %
+Adjusted EBITDA(2).......................................................................................... 98,025 44,298 121 %
+Net loss, excluding impact of goodwill impairment(3)...................................... (19,510) (74,209) (74) %
+Net loss attributable to common stockholders, excluding impact of goodwill
+impairment - basic and diluted(1)(3)................................................................. (29,699) (84,398) (65) %
+Loss per share attributable to common stockholders, excluding impact of
+goodwill impairment – basic and diluted(3) .................................................... (0.03) (0.09) (67) %
+Tangible book value (as of period end)(4).......................................................... 3,272,576 3,101,281 6 %
+___________________
+1
+(1) Adjusted for the contractual amount of dividends payable to holders of Series 1 redeemable preferred stock, which are participating interests.
+(2) Adjusted net revenue and adjusted EBITDA are non-GAAP financial measures. For more information and reconciliations to the most comparable GAAP
+measures, see “Non-GAAP Financial Measures” and Table 2 to the “Financial Tables” herein.
+(3) Loss per share attributable to common stockholders, excluding impact of goodwill impairment is defined as net income (loss) attributable to common
+stockholders, adjusted to exclude goodwill impairment losses of $247.2 million for the three months ended September 30, 2023, divided by the weighted
+average common stock outstanding for the respective periods. The goodwill impairment adjustment had no impact on weighted average common stock
+outstanding, or income tax impacts.
+(4) Defined as permanent equity, adjusted to exclude goodwill and intangible assets.
+Noto continued: “Our record number of member and product additions, along with improving operating efficiency,
+reflects the benefits of our broad product suite and unique Financial Services Productivity Loop (FSPL) strategy."
+Noto concluded: “Total deposits grew by $2.9 billion, up 23% during the third quarter to $15.7 billion at quarter-
+end, and over 90% of SoFi Money deposits (inclusive of Checking and Savings and cash management accounts) are
+from direct deposit members. For new direct deposit accounts opened in the third quarter, the median FICO score
+was 743. More than half of newly funded SoFi Money accounts are setting up direct deposit by day 30, and this has
+had a significant impact on debit spending, which exceeded $1 billion in quarterly debit transaction volume and was
+up 3.2x year-over-year, representing more than $5 billion of annualized debit transaction volume. We continue to
+see strong cross-buy trends from this attractive member base into Lending and other Financial Services products.
+With our launch in the first quarter of 2023 of enhanced FDIC insurance of up to $2 million, nearly 98% of our
+deposits were insured at quarter-end.
+As a result of this growth in high quality deposits, we have benefited from a lower cost of funding for our loans.
+Our deposit funding also increases our flexibility to capture additional net interest margin (NIM) and optimize
+returns, a critical advantage in light of notable macroeconomic uncertainty. SoFi Bank, N.A. generated $84.8
+million of GAAP net income at a 19% margin.”
+Consolidated Results
+Third quarter total GAAP net revenue increased 27% to $537.2 million from the prior-year period's $424.0 million.
+Third quarter adjusted net revenue of $530.7 million was up 27% from the same prior-year period's $419.3 million.
+Third quarter record adjusted EBITDA of $98.0 million increased 121% from the same prior year period's $44.3
+million.
+SoFi hit a number of key financial inflection points in the quarter, including positive contribution profit in the
+Financial Services segment of $3.3 million, versus a $4.3 million loss in the second quarter of 2023 and $52.6
+million loss in the third quarter of 2022. Notably, of the $111.5 million of incremental adjusted net revenue, over
+$74.4 million, or 67%, came from the non-Lending segments (Technology Platform and Financial Services
+segments). Additionally, adjusted EBITDA of $98.0 million exceeded share-based compensation expense of $62.0
+million for the third consecutive quarter. These points reinforce the company’s confidence in achieving GAAP
+profitability for the company for the fourth quarter of 2023. SoFi recorded a GAAP net loss of $266.7 million for
+the third quarter of 2023, an increase from the prior-year period's net loss of $74.2 million.
+Net interest income of $345.0 million was up 119% from the prior-year period and up 18% sequentially. Net interest
+margin of 5.99% was a record for the company, up from 5.74% last quarter and 5.86% in the prior-year quarter.
+Excluding the impact of a non-cash impairment of goodwill assets, we would have had a net loss of $19.5 million.
+The average rate on interest-earning assets increased by 53 basis points sequentially and 244 basis points versus the
+prior-year period, as the company continued to successfully increase the weighted average coupon in its personal
+loans and student loans, while the average rate on interest-bearing liabilities increased just 18 basis points
+sequentially and 230 basis points year-over-year. The funding of loans continued to shift toward deposits. In the
+quarter, the average rate on deposits was 219 basis points lower than that of warehouse facilities.
+2
+Member and Product Growth
+SoFi achieved strong year-over-year growth in both members and products in the third quarter of 2023. Record new
+member additions of over 717,000 brought total members to over 6.9 million by quarter-end, up over 2.2 million, or
+47%, from the end of 2022's third quarter.
+Record product additions of nearly 1,047,000 in the third quarter brought total products to over 10.4 million at
+quarter-end, up 45% from 7.2 million at the same prior year quarter-end.
+Members Products
+In Thousands In Thousands
+6,957 10,448
+6,240 9,401
+5,656 8,554
+5,223 7,895
+4,743 7,199
+Q3'22 Q4'22 Q1'23 Q2'23 Q3'23 Q3'22 Q4'22 Q1'23 Q2'23 Q3'23
+Products By Segment Technology Platform Accounts (1)(2)
+In Thousands In Millions
+8,854 137
+7,897 124 131 126 129
+7,138
+6,554
+5,919
+1,280 1,341 1,416 1,504 1,594
+Q3'22 Q4'22 Q1'23 Q2'23 Q3'23 Q3'22 Q4'22 Q1'23 Q2'23 Q3'23
+Lending Products Financial Services Products Tech Platform Accounts
+Note: For additional information on our company metrics, including the definitions of "Members", "Total Products" and "Technology Platform Total
+Accounts", see Table 6 in the “Financial Tables” herein.
+(1) The company includes SoFi accounts on the Galileo platform-as-a-service in its total Technology Platform accounts metric to better align with the
+presentation of Technology Platform segment revenue.
+(2) In 2023, Technology Platform total accounts reflects the previously disclosed migration by one of our clients of the majority of its processing volumes to
+a pure processor. These accounts remained open for administrative purposes through the end of 2022, and were included in our total accounts in such
+period.
+In the Financial Services segment, total products increased by 50% year-over-year, to 8.9 million from 5.9 million
+in the third quarter of 2022. SoFi Money (inclusive of Checking and Savings and cash management accounts) grew
+53% year-over-year to 3.1 million products, SoFi Invest grew 19% year-over-year to 2.5 million products, and SoFi
+Relay grew 85% year-over-year to 3.0 million products.
+Lending products increased 24% year-over-year to 1.6 million products, driven primarily by continued growth in
+personal loan products as well as accelerating growth in student loan products.
+Technology Platform enabled accounts increased by 10% year-over-year to 136.7 million.
+3
+Lending Segment Results
+Lending segment GAAP and adjusted net revenues were $349.0 million and $342.5 million, respectively, for the
+third quarter of 2023, up 16% and 15%, respectively, compared to the third quarter of 2022. Higher loan balances
+and net interest margin expansion drove strong growth in net interest income, which significantly exceeded directly
+attributable expenses of $138.5 million.
+Lending segment third quarter contribution profit of $204.0 million increased 13% from $180.6 million in the same
+prior-year period. Contribution margin using Lending adjusted net revenue remained healthy at 60% in the third
+quarter of 2023, versus 61% in the same prior-year period. These advances reflect SoFi’s ability to capitalize on
+continued strong demand for its lending products.
+Lending – Segment Results of Operations
+Three Months Ended September 30,
+($ in thousands) 2023 2022 % Change
+Net interest income............................................................................................ $ 265,215 $ 139,516 90 %
+Noninterest income............................................................................................ 83,758 162,178 (48) %
+Total net revenue – Lending...................................................................... 348,973 301,694 16 %
+Servicing rights – change in valuation inputs or assumptions ........................... (7,420) (6,182) 20 %
+Residual interests classified as debt – change in valuation inputs or
+assumptions....................................................................................................... 928 1,453 (36) %
+Directly attributable expenses........................................................................... (138,525) (116,403) 19 %
+Contribution Profit .................................................................................... $ 203,956 $ 180,562 13 %
+Adjusted net revenue – Lending(1) ................................................................. $ 342,481 $ 296,965 15 %
+___________________
+(1) Adjusted net revenue – Lending represents a non-GAAP financial measure. For more information and a reconciliation to the most comparable GAAP
+measure, see “Non-GAAP Financial Measures” and Table 2 to the “Financial Tables” herein.
+Lending – Loans Held for Sale
+Personal Loans Student Loans Home Loans Total
+September 30, 2023
+Unpaid principal............................................................ $ 14,177,004 $ 5,929,047 $ 110,320 $ 20,216,371
+Accumulated interest..................................................... 105,156 26,497 163 131,816
+Cumulative fair value adjustments(1)............................. 568,836 86,000 (9,187) 645,649
+Total fair value of loans(2)......................................... $ 14,850,996 $ 6,041,544 $ 101,296 $ 20,993,836
+June 30, 2023
+Unpaid principal............................................................ $ 12,171,935 $ 5,262,975 $ 87,928 $ 17,522,838
+Accumulated interest..................................................... 82,868 21,164 150 104,182
+Cumulative fair value adjustments(1)............................. 496,360 99,782 (9,495) 586,647
+Total fair value of loans(2)......................................... $ 12,751,163 $ 5,383,921 $ 78,583 $ 18,213,667
+___________________
+(1) During the three months ended September 30, 2023, the cumulative fair value adjustments for personal loans were primarily impacted by higher
+origination volume and higher coupon rates, partially offset by lower fair value marks driven primarily by higher prepayment rate assumption and a higher
+discount rate. The cumulative fair value adjustments for student loans were primarily impacted by a higher discount rate, which resulted in lower fair
+value marks, partially offset by higher origination volume and increases in coupon rates.
+(2) Each component of the fair value of loans is impacted by charge-offs during the period. Our fair value assumption for annual default rate incorporates fair
+value markdowns on loans beginning when they are 10 days or more delinquent, with additional markdowns at 30, 60 and 90 days past due.
+4
+The following table summarizes the significant inputs to the fair value model for personal and student loans:
+Personal Loans Student Loans
+September 30, June 30, September 30, June 30,
+2023 2023 2023 2023
+Weighted average coupon rate(1).................................... 13.8 % 13.6 % 5.3 % 5.0 %
+Weighted average annual default rate............................ 4.6 4.6 0.5 0.5
+Weighted average conditional prepayment rate............. 20.3 19.0 10.5 10.6
+Weighted average discount rate..................................... 6.6 6.1 4.8 4.4
+___________________
+(1) Represents the average coupon rate on loans held on balance sheet, weighted by unpaid principal balance outstanding at the balance sheet date.
+Third quarter Lending segment total origination volume increased 48% year-over-year, as a result of continued
+strong demand for personal loans and notable sequential growth in student loan originations.
+Record personal loan originations of $3.9 billion in the third quarter of 2023 were up $1.1 billion, or 38%, year-
+over-year, and rose 4% sequentially. Third quarter student loan volume of over $919 million was up $462 million,
+or 101%, year-over-year, and rose 133% sequentially as borrowers prepared to resume student loan payments in
+October. Third quarter home loan volume of $356 million was up 64% year-over-year, as we began to benefit from
+the integration of Wyndham Capital Mortgage with improved fulfillment capacity from our acquisition at the
+beginning of the second quarter.
+Lending – Originations and Average Balances
+Three Months Ended September 30,
+2023 2022 % Change
+Origination volume ($ in thousands, during period).........................................
+Personal loans................................................................................................. $ 3,885,967 $ 2,809,759 38 %
+Student loans................................................................................................... 919,330 457,184 101 %
+Home loans..................................................................................................... 355,698 216,246 64 %
+Total.............................................................................................................. $ 5,160,995 $ 3,483,189 48 %
+Average loan balance ($, as of period end)(1)
+Personal loans................................................................................................. $ 24,221 $ 24,772 (2) %
+Student loans................................................................................................... 44,828 47,152 (5) %
+Home loans..................................................................................................... 285,773 286,855 — %
+_________________
+(1) Within each loan product category, average loan balance is defined as the total unpaid principal balance of the loans divided by the number of loans that
+have a balance greater than zero dollars as of the reporting date. Average loan balance includes loans on the balance sheet and transferred loans with
+which SoFi has a continuing involvement through its servicing agreements.
+Lending – Products September 30,
+2023 2022 % Change
+Personal loans.................................................................................................... 1,057,995 783,645 35 %
+Student loans..................................................................................................... 507,567 471,141 8 %
+Home loans........................................................................................................ 28,344 25,707 10 %
+Total lending products................................................................................... 1,593,906 1,280,493 24 %
+Technology Platform Segment Results
+Technology Platform segment record net revenue of $89.9 million for the third quarter of 2023 increased 6% year-
+over-year and 3% sequentially. Record contribution profit of $32.2 million increased 65% year-over-year, for a
+margin of 36%, primarily as a result of a 12% year-over-year reduction in directly attributable expenses.
+5
+We are seeing continued diversification of our client base and revenue growth, along with strong adoption of new
+product offerings, including Konecta, our natural language AI driven intelligent digital assistant, and our Payments
+Risk Platform (PRP), a platform which leverages transactional data to reduce transaction fraud.
+Technology Platform – Segment Results of Operations
+Three Months Ended September 30,
+($ in thousands) 2023 2022 % Change
+Net interest income............................................................................................ $ 573 $ — n/m
+Noninterest income............................................................................................ 89,350 84,777 5 %
+Total net revenue – Technology Platform..................................................... 89,923 84,777 6 %
+Directly attributable expenses........................................................................... (57,732) (65,241) (12) %
+Contribution Profit .................................................................................... $ 32,191 $ 19,536 65 %
+Technology Platform total enabled client accounts increased 10% year-over-year, to 136.7 million from 124.3
+million. The company has made great progress on our strategy to sign larger, more durable clients. Additionally,
+there is a robust pipeline of ongoing discussions with potential partners with large existing customer bases across
+both the U.S. and Latin America spanning both the financial services and non-financial services segments.
+Technology Platform September 30,
+2023 2022 % Change
+Total accounts.................................................................................................... 136,739,131 124,332,810 10 %
+Financial Services Segment Results
+Financial Services segment record net revenue increased 142% in the third quarter of 2023 to $118.2 million from
+the prior year period's total of $49.0 million, helped by 43% growth in segment interchange revenue and 231%
+growth in net interest income. Notably, the company exceeded $1.2 billion in point of sale debit transaction volume
+in the quarter, representing an annualized $5 billion run-rate. Strength in the segment results was driven by SoFi
+Money along with contributions from SoFi Invest and SoFi Credit Card.
+For the first time, the Financial Services segment posted a positive contribution profit of $3.3 million, reflecting a
+$55.9 million improvement over the prior-year quarter's $52.6 million loss. This came as a result of continued
+improvement in monetization for the segment, along with increasing operating leverage as we efficiently scale the
+business. Monetization progress is underscored by annualized revenue per product of $53, which grew 61% year-
+over-year and 8% sequentially. Operating leverage is evident, as the segment generated $69.3 million in incremental
+revenue, with only $13.4 million of incremental directly attributable expenses versus the year-ago period.
+Financial Services – Segment Results of Operations
+Three Months Ended September 30,
+($ in thousands) 2023 2022 % Change
+Net interest income............................................................................................ $ 93,101 $ 28,158 231 %
+Noninterest income............................................................................................ 25,146 20,795 21 %
+Total net revenue – Financial Services.......................................................... 118,247 48,953 142 %
+Directly attributable expenses........................................................................... (114,987) (101,576) 13 %
+Contribution profit (loss) .......................................................................... $ 3,260 $ (52,623) n/m
+By continuously innovating with new and relevant offerings, features and rewards for members, SoFi grew total
+Financial Services products by 2.9 million, or 50%, year-over-year in the third quarter of 2023, bringing the total to
+8.9 million at quarter-end. In the third quarter of 2023, SoFi Money products increased by a record of nearly
+371,000, Relay products increased by a record of over 405,000, and SoFi Invest products increased by over
+149,000.
+6
+Most notably, our Checking and Savings offering has an APY of up to 4.60% as of October 30, 2023, no minimum
+balance requirement nor balance limits, FDIC insurance of up to $2 million, a host of free features and a unique
+rewards program. Total deposits grew 23% sequentially to $15.7 billion at quarter-end, and over 90% of SoFi
+Money deposits (inclusive of Checking and Savings and cash management accounts) are from direct deposit
+members. More than half of newly funded SoFi Money accounts were setting up direct deposit by day 30 in the
+third quarter of 2023.
+Financial Services – Products September 30,
+2023 2022 % Change
+Money(1)............................................................................................................. 3,063,778 2,002,791 53 %
+Invest................................................................................................................. 2,465,072 2,067,621 19 %
+Credit Card........................................................................................................ 235,791 153,978 53 %
+Referred loans(2)................................................................................................. 51,301 36,538 40 %
+Relay.................................................................................................................. 2,958,497 1,600,102 85 %
+At Work............................................................................................................. 79,461 57,775 38 %
+Total financial services products..................................................................... 8,853,900 5,918,805 50 %
+___________________
+(1) Includes SoFi Checking and Savings accounts held at SoFi Bank, and cash management accounts.
+(2) Limited to loans wherein we provide third party fulfillment services.
+Guidance and Outlook
+For the full year 2023, management expects adjusted net revenue of $2.045 to $2.065 billion, up from its prior
+guidance of $1.974 to $2.034 billion, and full-year adjusted EBITDA of $386 to $396 million, up from its prior
+guidance of $333 to $343 million, representing a 48% incremental adjusted EBITDA margin and a range of 18.9%
+to 19.2% adjusted EBITDA margin. As the company moves toward expected GAAP net income profitability in the
+fourth quarter, management expects depreciation and amortization and share-based compensation expenses to
+increase in the mid-to-high single digit percentage range in the fourth quarter relative to third quarter results.
+Management will further address full-year 2023 guidance on the quarterly earnings conference call. Management
+has not reconciled forward-looking non-GAAP measures to their most directly comparable GAAP measures of total
+net revenue, net income and gross margin. This is because the company cannot predict with reasonable certainty and
+without unreasonable efforts the ultimate outcome of certain GAAP components of such reconciliations due to
+market-related assumptions that are not within our control as well as certain legal or advisory costs, tax costs or
+other costs that may arise. For these reasons, management is unable to assess the probable significance of the
+unavailable information, which could materially impact the amount of the future directly comparable GAAP
+measures.
+7
+Earnings Webcast
+SoFi’s executive management team will host a live audio webcast beginning at 8:00 a.m. Eastern Time (5:00 a.m.
+Pacific Time) today to discuss the quarter’s financial results and business highlights. All interested parties are
+invited to listen to the live webcast at https://investors.sofi.com. A replay of the webcast will be available on the
+SoFi Investor Relations website for 30 days. Investor information, including supplemental financial information, is
+available on SoFi’s Investor Relations website at https://investors.sofi.com.
+Cautionary Statement Regarding Forward-Looking Statements
+Certain of the statements above are forward-looking and as such are not historical facts. This includes, without
+limitation, statements regarding our expectations for the full year 2023 adjusted net revenue and adjusted EBITDA,
+our expectations regarding the profitability of our three business segments and GAAP profitability of our company
+in the fourth quarter of 2023, our expectations regarding our ability to continue to grow our business, improve our
+financials and increase our member, product and total accounts count, our ability to navigate the macroeconomic
+environment and the financial position, business strategy and plans and objectives of management for our future
+operations. These forward-looking statements are not guarantees of performance. Such statements can be identified
+by the fact that they do not relate strictly to historical or current facts. Words such as “achieve”, “continue”,
+“expect”, “growth”, “may”, “plan”, “strategy”, “will be”, “will continue”, and similar expressions may identify
+forward-looking statements, but the absence of these words does not mean that a statement is not forward-looking.
+Factors that could cause actual results to differ materially from those contemplated by these forward-looking
+statements include: (i) the effect of and uncertainties related to macroeconomic factors such as fluctuating inflation
+and interest rates; (ii) our ability to achieve profitability, operating efficiencies and continued growth across our
+three businesses in the future, as well as our ability to achieve GAAP net income profitability in the fourth quarter
+of 2023 and expected GAAP net income margins; (iii) the impact on our business of the regulatory environment and
+complexities with compliance related to such environment; (iv) our ability to realize the benefits of being a bank
+holding company and operating SoFi Bank, including continuing to grow high quality deposits and our rewards
+program for members; (v) our ability to respond and adapt to changing market and economic conditions, including
+recessionary pressures, inflationary pressures, interest rates, and volatility from global events; (vi) our ability to
+continue to drive brand awareness and realize the benefits or our integrated multi-media marketing and advertising
+campaigns; (vii) our ability to vertically integrate our businesses and accelerate the pace of innovation of our
+financial products; (viii) our ability to manage our growth effectively and our expectations regarding the
+development and expansion of our business; (ix) our ability to access sources of capital on acceptable terms or at all,
+including debt financing and other sources of capital to finance operations and growth; (x) the success of our
+continued investments in our Financial Services segment and in our business generally; (xi) the success of our
+marketing efforts and our ability to expand our member base and increase our product adds; (xii) our ability to
+maintain our leadership position in certain categories of our business and to grow market share in existing markets
+or any new markets we may enter; (xiii) our ability to develop new products, features and functionality that are
+competitive and meet market needs; (xiv) our ability to realize the benefits of our strategy, including what we refer
+to as our FSPL; (xv) our ability to make accurate credit and pricing decisions or effectively forecast our loss rates;
+(xvi) our ability to establish and maintain an effective system of internal controls over financial reporting; (xvii) our
+ability to maintain the security and reliability of our products; and (xviii) the outcome of any legal or governmental
+proceedings that may be instituted against us. The foregoing list of factors is not exhaustive. You should carefully
+consider the foregoing factors and the other risks and uncertainties set forth in the section titled “Risk Factors” in
+our last quarterly report on Form 10-Q, as filed with the Securities and Exchange Commission, and those that are
+included in any of our future filings with the Securities and Exchange Commission, including our annual report on
+Form 10-K, under the Exchange Act.
+These forward-looking statements are based on information available as of the date hereof and current expectations,
+forecasts and assumptions, and involve a number of judgments, risks and uncertainties. Accordingly, forward-
+looking statements should not be relied upon as representing our views as of any subsequent date, and we do not
+undertake any obligation to update forward-looking statements to reflect events or circumstances after the date they
+were made, whether as a result of new information, future events or otherwise, except as may be required under
+applicable securities laws.
+8
+As a result of a number of known and unknown risks and uncertainties, our actual results or performance may be
+materially different from those expressed or implied by these forward-looking statements. You should not place
+undue reliance on these forward-looking statements.
+Non-GAAP Financial Measures
+This press release presents information about our adjusted net revenue and adjusted EBITDA, which are non-GAAP
+financial measures provided as supplements to the results provided in accordance with accounting principles
+generally accepted in the United States (GAAP). We use adjusted net revenue and adjusted EBITDA to evaluate our
+operating performance, formulate business plans, help better assess our overall liquidity position, and make strategic
+decisions, including those relating to operating expenses and the allocation of internal resources. Accordingly, we
+believe that adjusted net revenue and adjusted EBITDA provide useful information to investors and others in
+understanding and evaluating our operating results in the same manner as our management. These non-GAAP
+measures are presented for supplemental informational purposes only, have limitations as analytical tools, and
+should not be considered in isolation from, or as a substitute for, the analysis of other GAAP financial measures,
+such as total net revenue and net income (loss). Other companies may not use these non-GAAP measures or may
+use similar measures that are defined in a different manner. Therefore, SoFi's non-GAAP measures may not be
+directly comparable to similarly titled measures of other companies. Reconciliations of these non-GAAP measures
+to the most directly comparable GAAP financial measures are provided in Table 2 to the “Financial Tables” herein.
+Forward-looking non-GAAP financial measures are presented without reconciliations of such forward-looking non-
+GAAP measures because the GAAP financial measures are not accessible on a forward-looking basis and
+reconciling information is not available without unreasonable effort due to the inherent difficulty in forecasting and
+quantifying certain amounts that are necessary for such reconciliations, including adjustments reflected in our
+reconciliation of historic non-GAAP financial measures, the amounts of which, based on historical experience,
+could be material.
+About SoFi
+SoFi (NASDAQ: SOFI) is a member-centric, one-stop shop for digital financial services on a mission to help people
+achieve financial independence to realize their ambitions. The company’s full suite of financial products and
+services helps its over 6.9 million SoFi members borrow, save, spend, invest, and protect their money better by
+giving them fast access to the tools they need to get their money right, all in one app. SoFi also equips members
+with the resources they need to get ahead – like career advisors, Credentialed Financial Planners (CFP®), exclusive
+experiences and events, and a thriving community – on their path to financial independence.
+SoFi innovates across three business segments: Lending, Financial Services – which includes SoFi Checking and
+Savings, SoFi Invest, SoFi Credit Card, SoFi Protect, and SoFi Insights – and Technology Platform, which offers
+the only end-to-end vertically integrated financial technology stack. SoFi Bank, N.A., an affiliate of SoFi, is a
+nationally chartered bank, regulated by the OCC and FDIC and SoFi is a bank holding company regulated by the
+Federal Reserve. The company is also the naming rights partner of SoFi Stadium, home of the Los Angeles
+Chargers and the Los Angeles Rams. For more information, visit https://www.sofi.com or download our iOS and
+Android apps.
+Availability of Other Information About SoFi
+Investors and others should note that we communicate with our investors and the public using our website (https://
+www.sofi.com), the investor relations website (https://investors.sofi.com), and on social media (Twitter and
+LinkedIn), including but not limited to investor presentations and investor fact sheets, Securities and Exchange
+Commission filings, press releases, public conference calls and webcasts. The information that SoFi posts on these
+channels and websites could be deemed to be material information. As a result, SoFi encourages investors, the
+media, and others interested in SoFi to review the information that is posted on these channels, including the
+investor relations website, on a regular basis. This list of channels may be updated from time to time on SoFi’s
+investor relations website and may include additional social media channels. The contents of SoFi’s website or these
+9
+channels, or any other website that may be accessed from its website or these channels, shall not be deemed
+incorporated by reference in any filing under the Securities Act of 1933, as amended.
+Contact
+Investors:
+SoFi Investor Relations
+IR@sofi.com
+Media:
+SoFi Media Relations
+PR@sofi.com
+SOFI-F
+10
+FINANCIAL TABLES
+1. Condensed Consolidated Statements of Operations and Comprehensive Loss (Unaudited)
+2. Reconciliation of GAAP to Non-GAAP Financial Measures
+3. Condensed Consolidated Balance Sheets (Unaudited)
+4. Average Balances and Net Interest Earnings Analysis (Unaudited)
+5. Condensed Consolidated Cash Flow Data (Unaudited)
+6. Company Metrics
+7. Segment Financials (Unaudited)
+11
+Table 1
+SoFi Technologies, Inc.
+Condensed Consolidated Statements of Operations and Comprehensive Loss
+(Unaudited)
+(In Thousands, Except for Share and Per Share Data)
+Three Months Ended September 30, Nine Months Ended September 30,
+2023 2022 2023 2022
+Interest income
+Loans..................................................................................... $ 537,947 $ 191,525 $ 1,337,476 $ 451,247
+Securitizations....................................................................... 1,980 2,633 7,693 7,958
+Other..................................................................................... 24,343 3,881 60,661 6,758
+Total interest income........................................................ 564,270 198,039 1,405,830 465,963
+Interest expense
+Securitizations and warehouses............................................ 63,847 20,653 181,231 59,158
+Deposits................................................................................. 145,563 14,149 325,208 19,123
+Corporate borrowings........................................................... 9,784 5,270 26,951 11,369
+Other..................................................................................... 113 117 341 801
+Total interest expense....................................................... 219,307 40,189 533,731 90,451
+Net interest income........................................................... 344,963 157,850 872,099 375,512
+Noninterest income
+Loan origination and sales.................................................... 81,683 163,697 311,258 465,815
+Securitizations....................................................................... (6,298) (8,772) (22,375) (31,790)
+Servicing............................................................................... 8,009 7,296 29,803 30,003
+Technology products and solutions....................................... 81,856 82,035 236,946 223,562
+Other..................................................................................... 26,996 21,879 79,654 53,754
+Total noninterest income.................................................. 192,246 266,135 635,286 741,344
+Total net revenue.............................................................. 537,209 423,985 1,507,385 1,116,856
+Noninterest expense
+Technology and product development.................................. 125,698 110,702 369,602 291,976
+Sales and marketing.............................................................. 186,719 162,129 544,695 444,121
+Cost of operations................................................................. 98,258 83,083 276,051 232,611
+General and administrative................................................... 124,457 126,199 379,326 388,533
+Goodwill impairment............................................................ 247,174 — 247,174 —
+Provision for credit losses..................................................... 21,831 16,323 42,853 39,387
+Total noninterest expense................................................. 804,137 498,436 1,859,701 1,396,628
+Loss before income taxes................................................. (266,928) (74,451) (352,316) (279,772)
+Income tax benefit (expense)................................................ 244 242 3,661 (629)
+Net loss............................................................................. $ (266,684) $ (74,209) $ (348,655) $ (280,401)
+Loss per share
+Loss per share – basic............................................................ $ (0.29) $ (0.09) $ (0.40) $ (0.35)
+Loss per share – diluted ......................................................... $ (0.29) $ (0.09) $ (0.40) $ (0.35)
+Weighted average common stock outstanding – basic.......... 951,183,107 916,762,973 939,070,185 893,455,206
+Weighted average common stock outstanding – diluted ....... 951,183,107 916,762,973 939,070,185 893,455,206
+12
+Table 2
+Non-GAAP Financial Measures
+Reconciliation of Adjusted Net Revenue
+Adjusted net revenue is defined as total net revenue, adjusted to exclude the fair value changes in servicing rights and residual
+interests classified as debt due to valuation inputs and assumptions changes, which relate only to our Lending segment. For our
+consolidated results and for the Lending segment, we reconcile adjusted net revenue to total net revenue, the most directly
+comparable GAAP measure, as presented for the periods indicated below:
+Three Months Ended September 30, Nine Months Ended September 30,
+($ in thousands) 2023 2022 2023 2022
+Total net revenue ....................................................................... $ 537,209 $ 423,985 $ 1,507,385 $ 1,116,856
+Servicing rights – change in valuation inputs or assumptions(1) .. (7,420) (6,182) (28,105) (26,860)
+Residual interests classified as debt – change in valuation inputs
+or assumptions(2) ...................................................................... 928 1,453 415 7,078
+Adjusted net revenue ............................................................ $ 530,717 $ 419,256 $ 1,479,695 $ 1,097,074
+Three Months Ended September 30, Nine Months Ended September 30,
+($ in thousands) 2023 2022 2023 2022
+Total net revenue – Lending.................................................... $ 348,973 $ 301,694 $ 1,017,495 $ 811,800
+Servicing rights – change in valuation inputs or assumptions(1) . (7,420) (6,182) (28,105) (26,860)
+Residual interests classified as debt – change in valuation
+inputs or assumptions(2) .......................................................... 928 1,453 415 7,078
+Adjusted net revenue – Lending......................................... $ 342,481 $ 296,965 $ 989,805 $ 792,018
+___________________
+(1) Reflects changes in fair value inputs and assumptions on servicing rights, including conditional prepayment, default rates and discount rates. These assumptions
+are highly sensitive to market interest rate changes and are not indicative of our performance or results of operations. Moreover, these non-cash charges are
+unrealized during the period and, therefore, have no impact on our cash flows from operations. As such, these positive and negative changes are adjusted out of
+total net revenue to provide management and financial users with better visibility into the net revenue available to finance our operations and our overall
+performance.
+(2) Reflects changes in fair value inputs and assumptions on residual interests classified as debt, including conditional prepayment, default rates and discount rates.
+When third parties finance our consolidated securitization VIEs by purchasing residual interests, we receive proceeds at the time of the closing of the
+securitization and, thereafter, pass along contractual cash flows to the residual interest owner. These residual debt obligations are measured at fair value on a
+recurring basis, but they have no impact on our initial financing proceeds, our future obligations to the residual interest owner (because future residual interest
+claims are limited to contractual securitization collateral cash flows), or the general operations of our business. As such, these positive and negative non-cash
+changes in fair value attributable to assumption changes are adjusted out of total net revenue to provide management and financial users with better visibility
+into the net revenue available to finance our operations.
+13
+Reconciliation of Adjusted EBITDA
+Adjusted EBITDA is defined as net income (loss), adjusted to exclude, as applicable: (i) corporate borrowing-based interest expense
+(our adjusted EBITDA measure is not adjusted for warehouse or securitization-based interest expense, nor deposit interest expense
+and finance lease liability interest expense, as these are not direct operating expenses), (ii) income tax expense (benefit),
+(iii) depreciation and amortization, (iv) share-based expense (inclusive of equity-based payments to non-employees), (v) impairment
+expense (inclusive of goodwill impairment and property, equipment and software abandonments), (vi) transaction-related expenses,
+(vii) fair value changes in warrant liabilities, (viii) fair value changes in each of servicing rights and residual interests classified as
+debt due to valuation assumptions, and (ix) other charges, as appropriate, that are not expected to recur and are not indicative of our
+core operating performance. We reconcile adjusted EBITDA to net loss, the most directly comparable GAAP measure, for the
+periods indicated below:
+Three Months Ended September 30, Nine Months Ended September 30,
+($ in thousands) 2023 2022 2023 2022
+Net loss................................................................................................... $ (266,684) $ (74,209) $ (348,655) $ (280,401)
+Non-GAAP adjustments:
+Interest expense – corporate borrowings(1) .......................................... 9,784 5,270 26,951 11,369
+Income tax (benefit) expense(2) .......................................................... (244) (242) (3,661) 629
+Depreciation and amortization(3) ......................................................... 52,516 40,253 147,967 109,007
+Share-based expense........................................................................... 62,005 77,855 202,109 235,018
+Restructuring charges(4)....................................................................... — — 4,953 —
+Impairment expense(5)......................................................................... 247,174 — 248,417 —
+Transaction-related expense(6) ............................................................ (34) 100 142 17,446
+Servicing rights – change in valuation inputs or assumptions(7) ......... (7,420) (6,182) (28,105) (26,860)
+Residual interests classified as debt – change in valuation inputs or
+assumptions(8) ................................................................................. 928 1,453 415 7,078
+Total adjustments........................................................................... 364,709 118,507 599,188 353,687
+Adjusted EBITDA........................................................................ $ 98,025 $ 44,298 $ 250,533 $ 73,286
+___________________
+(1) Our adjusted EBITDA measure adjusts for corporate borrowing-based interest expense, as these expenses are a function of our capital structure. Corporate
+borrowing-based interest expense includes interest on our revolving credit facility and the amortization of debt discount and debt issuance costs on our
+convertible notes. Revolving credit facility interest expense in the 2023 periods increased due to higher interest rates relative to the prior year periods on
+identical outstanding debt.
+(2) Income taxes were primarily attributable to tax expense associated with the profitability of SoFi Bank in state jurisdictions where separate filings are required.
+For the three and nine month 2023 periods, this expense was more than offset by income tax benefits from foreign losses in jurisdictions with net deferred tax
+liabilities related to Technisys.
+(3) Depreciation and amortization expense for the 2023 periods increased compared to the 2022 periods primarily in connection with acquisitions and growth in
+our internally-developed software balance.
+(4) Restructuring charges in the nine-month 2023 period primarily included employee-related wages, benefits and severance associated with a small reduction in
+headcount in our Technology Platform segment in the first quarter of 2023, which do not reflect expected future operating expenses and are not indicative of
+our core operating performance.
+(5) Impairment expense includes $247,174 related to goodwill impairment in the three and nine month 2023 periods, and $1,243 related to a sublease arrangement
+in the nine month 2023 period, which are not indicative of our core operating performance.
+(6) Transaction-related expenses in the 2023 and 2022 periods included financial advisory and professional services costs associated with our acquisitions of
+Wyndham and Technisys, respectively.
+(7) Reflects changes in fair value inputs and assumptions, including market servicing costs, conditional prepayment, default rates and discount rates. This non-cash
+change is unrealized during the period and, therefore, has no impact on our cash flows from operations. As such, these positive and negative changes in fair
+value attributable to assumption changes are adjusted out of net loss to provide management and financial users with better visibility into the earnings available
+to finance our operations.
+(8) Reflects changes in fair value inputs and assumptions, including conditional prepayment, default rates and discount rates. When third parties finance our
+consolidated VIEs through purchasing residual interests, we receive proceeds at the time of the securitization close and, thereafter, pass along contractual cash
+flows to the residual interest owner. These obligations are measured at fair value on a recurring basis, which has no impact on our initial financing proceeds,
+our future obligations to the residual interest owner (because future residual interest claims are limited to contractual securitization collateral cash flows), or the
+general operations of our business. As such, these positive and negative non-cash changes in fair value attributable to assumption changes are adjusted out of
+net loss to provide management and financial users with better visibility into the earnings available to finance our operations.
+14
+Table 3
+SoFi Technologies, Inc.
+Condensed Consolidated Balance Sheets
+(Unaudited)
+(In Thousands, Except for Share Data)
+September 30, December 31,
+2023 2022
+Assets
+Cash and cash equivalents................................................................................................................... $ 2,813,876 $ 1,421,907
+Restricted cash and restricted cash equivalents................................................................................... 483,141 424,395
+Investment securities (includes available-for-sale securities of $486,091 and $195,438 at fair
+value with associated amortized cost of $486,999 and $203,418, as of September 30, 2023 and
+December 31, 2022, respectively)....................................................................................................... 579,738 396,769
+Loans held for sale, at fair value.......................................................................................................... 20,993,836 13,557,074
+Loans held for investment (less allowance for credit losses on loans at amortized cost of $51,923
+and $40,788, as of September 30, 2023 and December 31, 2022, respectively)................................. 361,248 307,957
+Servicing rights.................................................................................................................................... 142,654 149,854
+Property, equipment and software....................................................................................................... 201,931 170,104
+Goodwill.............................................................................................................................................. 1,393,505 1,622,991
+Intangible assets................................................................................................................................... 387,307 442,155
+Operating lease right-of-use assets...................................................................................................... 93,379 97,135
+Other assets (less allowance for credit losses of $1,581 and $2,785, as of September 30, 2023 and
+December 31, 2022, respectively)....................................................................................................... 526,538 417,334
+Total assets................................................................................................................................. $ 27,977,153 $ 19,007,675
+Liabilities, temporary equity and permanent equity
+Liabilities:
+Deposits:
+Interest-bearing deposits................................................................................................................. $ 15,607,349 $ 7,265,792
+Noninterest-bearing deposits.......................................................................................................... 64,624 76,504
+Total deposits.................................................................................................................................... 15,671,973 7,342,296
+Accounts payable, accruals and other liabilities............................................................................... 566,477 516,215
+Operating lease liabilities.................................................................................................................. 113,361 117,758
+Debt .................................................................................................................................................. 6,241,386 5,485,882
+Residual interests classified as debt.................................................................................................. 10,194 17,048
+Total liabilities........................................................................................................................... 22,603,391 13,479,199
+Commitments, guarantees, concentrations and contingencies
+Temporary equity:
+Redeemable preferred stock, $0.00 par value: 100,000,000 and 100,000,000 shares authorized;
+3,234,000 and 3,234,000 shares issued and outstanding as of September 30, 2023 and
+December 31, 2022, respectively..................................................................................................... 320,374 320,374
+Permanent equity:
+Common stock, $0.00 par value: 3,100,000,000 and 3,100,000,000 shares authorized;
+957,860,430 and 933,896,120 shares issued and outstanding as of September 30, 2023 and
+December 31, 2022, respectively...................................................................................................... 95 93
+Additional paid-in capital.................................................................................................................. 6,904,869 6,719,826
+Accumulated other comprehensive income (loss)............................................................................ 600 (8,296)
+Accumulated deficit.......................................................................................................................... (1,852,176) (1,503,521)
+Total permanent equity.............................................................................................................. 5,053,388 5,208,102
+Total liabilities, temporary equity and permanent equity.......................................................... $ 27,977,153 $ 19,007,675
+15
+Table 4
+SoFi Technologies, Inc.
+Average Balances and Net Interest Earnings Analysis
+(Unaudited)
+Three Months Ended September 30, 2023 Three Months Ended September 30, 2022
+Interest Interest
+Average Income/ Average Average Income/ Average
+($ in thousands) Balances Expense Yield/Rate Balances Expense Yield/Rate
+Assets
+Interest-earning assets:
+Interest-bearing deposits with banks..................... $ 2,342,361 $ 24,485 4.15 % $ 1,067,810 $ 2,529 0.95 %
+Investment securities............................................. 517,786 1,838 1.41 504,365 3,097 2.46
+Loans..................................................................... 19,996,570 537,947 10.67 9,150,847 191,525 8.37
+Total interest-earning assets........................................ 22,856,717 564,270 9.79 10,723,022 197,151 7.35
+Total noninterest-earning assets.................................. 3,116,217 3,019,934
+Total assets............................................................ $ 25,972,934 $ 13,742,956
+Liabilities, Temporary Equity and Permanent
+Equity
+Interest-bearing liabilities:
+Demand deposits................................................... $ 2,355,243 $ 12,837 2.16 % $ 1,982,603 $ 7,769 1.57 %
+Savings deposits.................................................... 9,416,236 104,375 4.40 1,453,458 6,114 1.68
+Time deposits......................................................... 2,244,196 28,351 5.01 354,211 266 0.30
+Total interest-bearing deposits......................... 14,015,675 145,563 4.12 3,790,272 14,149 1.49
+Warehouse facilities.............................................. 3,223,333 51,257 6.31 1,523,903 12,539 3.29
+Securitization debt................................................. 724,063 9,374 5.14 487,142 4,492 3.69
+Other debt.............................................................. 1,644,295 13,113 3.16 1,647,221 7,988 1.94
+Total debt............................................................ 5,591,691 73,744 5.23 3,658,266 25,019 2.74
+Residual interests classified as debt...................... 10,744 — — 48,894 904 7.40
+Total interest-bearing liabilities.................................. 19,618,110 219,307 4.44 7,497,432 40,072 2.14
+Total noninterest-bearing liabilities............................ 783,925 735,086
+Total liabilities....................................................... 20,402,035 8,232,518
+Total temporary equity................................................ 320,374 320,374
+Total permanent equity............................................... 5,250,525 5,190,064
+Total liabilities, temporary equity and permanent
+equity........................................................................... $ 25,972,934 $ 13,742,956
+Net interest income..................................................... $ 344,963 $ 157,079
+Net interest margin...................................................... 5.99 % 5.86 %
+16
+Table 5
+SoFi Technologies, Inc.
+Condensed Consolidated Cash Flow Data
+(Unaudited)
+(In Thousands)
+Nine Months Ended September 30,
+2023 2022
+Net cash used in operating activities............................................................................................ $ (6,979,198) $ (4,837,023)
+Net cash used in investing activities............................................................................................ (476,335) (54,926)
+Net cash provided by financing activities.................................................................................... 8,906,046 5,384,714
+Effect of exchange rates on cash and cash equivalents............................................................... 202 231
+Net increase in cash, cash equivalents, restricted cash and restricted cash equivalents......... $ 1,450,715 $ 492,996
+Cash, cash equivalents, restricted cash and restricted cash equivalents at beginning of period.. 1,846,302 768,437
+Cash, cash equivalents, restricted cash and restricted cash equivalents at end of period............ $ 3,297,017 $ 1,261,433
+17
+Table 6
+Company Metrics
+September 30, June 30, March 31, December 31, September 30, June 30, March 31, December 31, September 30,
+2023 2023 2023 2022 2022 2022 2022 2021 2021
+Members................................ 6,957,187 6,240,091 5,655,711 5,222,533 4,742,673 4,318,705 3,868,334 3,460,298 2,937,379
+Total Products ....................... 10,447,806 9,401,025 8,554,363 7,894,636 7,199,298 6,564,174 5,862,137 5,173,197 4,267,665
+Total Products —
+Lending segment............. 1,593,906 1,503,892 1,416,122 1,340,597 1,280,493 1,202,027 1,138,566 1,078,952 1,030,882
+Total Products —
+Financial Services
+segment ........................... 8,853,900 7,897,133 7,138,241 6,554,039 5,918,805 5,362,147 4,723,571 4,094,245 3,236,783
+Total Accounts —
+Technology Platform
+segment(1) .............................. 136,739,131 129,356,203 126,326,916 130,704,351 124,332,810 116,570,038 109,687,014 99,660,657 88,811,022
+___________________
+(1) Beginning in the fourth quarter of 2021, the company included SoFi accounts on the Galileo platform-as-a-service in its total Technology Platform accounts
+metric to better align with the presentation of Technology Platform segment revenue. Quarterly amounts for the earlier quarters in 2021 were determined to
+be immaterial, and as such were not recast.
+Members
+We refer to our customers as “members”. We define a member as someone who has a lending relationship with us through
+origination and/or ongoing servicing, opened a financial services account, linked an external account to our platform, or signed up
+for our credit score monitoring service. Our members have continuous access to our certified financial planners, our career advice
+services, our member events, our content, educational material, news, and our tools and calculators, which are provided at no cost
+to the member. We view members as an indication not only of the size and a measurement of growth of our business, but also as a
+measure of the significant value of the data we have collected over time.
+Once someone becomes a member, they are always considered a member unless they violate our terms of service. We adjust our
+total number of members in the event a member is removed in accordance with our terms of service. This could occur for a
+variety of reasons—including fraud or pursuant to certain legal processes—and, as our terms of service evolve together with our
+business practices, product offerings and applicable regulations, our grounds for removing members from our total member count
+could change. The determination that a member should be removed in accordance with our terms of service is subject to an
+evaluation process, following the completion, and based on the results, of which, relevant members and their associated products
+are removed from our total member count in the period in which such evaluation process concludes. However, depending on the
+length of the evaluation process, that removal may not take place in the same period in which the member was added to our
+member count or the same period in which the circumstances leading to their removal occurred. For this reason, our total member
+count may not yet reflect adjustments that may be made once ongoing evaluation processes, if any, conclude.
+Total Products
+Total products refers to the aggregate number of lending and financial services products that our members have selected on our
+platform since our inception through the reporting date, whether or not the members are still registered for such products. Total
+products is a primary indicator of the size and reach of our Lending and Financial Services segments. Management relies on total
+products metrics to understand the effectiveness of our member acquisition efforts and to gauge the propensity for members to use
+more than one product.
+In our Lending segment, total products refers to the number of personal loans, student loans and home loans that have been
+originated through our platform through the reporting date, whether or not such loans have been paid off. If a member has
+multiple loan products of the same loan product type, such as two personal loans, that is counted as a single product. However, if
+a member has multiple loan products across loan product types, such as one personal loan and one home loan, that is counted as
+two products.
+In our Financial Services segment, total products refers to the number of SoFi Money accounts (inclusive of checking and savings
+accounts held at SoFi Bank and cash management accounts), SoFi Invest accounts, SoFi Credit Card accounts (including accounts
+with a zero dollar balance at the reporting date), referred loans (which are originated by a third-party partner to which we provide
+pre-qualified borrower referrals), SoFi At Work accounts and SoFi Relay accounts (with either credit score monitoring enabled or
+external linked accounts) that have been opened through our platform through the reporting date. Checking and savings accounts
+are considered one account within our total products metric. Our SoFi Invest service is composed of three products: active
+investing accounts, robo-advisory accounts and digital assets accounts. Our members can select any one or combination of the
+three types of SoFi Invest products. If a member has multiple SoFi Invest products of the same account type, such as two active
+investing accounts, that is counted as a single product. However, if a member has multiple SoFi Invest products across account
+18
+types, such as one active investing account and one robo-advisory account, those separate account types are considered separate
+products. In the event a member is removed in accordance with our terms of service, as discussed under “Members” above, the
+member’s associated products are also removed.
+Technology Platform Total Accounts
+In our Technology Platform segment, total accounts refers to the number of open accounts at Galileo as of the reporting date.
+Beginning in the fourth quarter of 2021, we included intercompany accounts on the Galileo platform-as-a-service in our total
+accounts metric to better align with the Technology Platform segment revenue, which includes intercompany revenue. We recast
+the accounts in the fourth quarter of 2021, but did not recast the accounts for the earlier quarters in 2021, as the impact was
+determined to be immaterial. Total accounts is a primary indicator of the accounts dependent upon our technology platform to use
+virtual card products, virtual wallets, make peer-to-peer and bank-to-bank transfers, receive early paychecks, separate savings
+from spending balances, make debit transactions and rely upon real-time authorizations, all of which result in revenues for the
+Technology Platform segment. We do not measure total accounts for the Technisys products and solutions, as the revenue model
+is not primarily dependent upon being a fully integrated, stand-ready service.
+19
+Table 7
+Segment Financials
+(Unaudited)
+Quarter Ended
+September 30, June 30, March 31, December 31, September 30, June 30, March 31, December 31, September 30,
+($ in thousands) 2023 2023 2023 2022 2022 2022 2022 2021 2021
+Lending
+Net interest income............................................................. $ 265,215 $ 231,885 $ 201,047 $ 183,607 $ 139,516 $ 114,003 $ 94,354 $ 77,246 $ 72,257
+Total noninterest income.................................................... 83,758 99,556 136,034 144,584 162,178 143,114 158,635 136,518 138,034
+Total net revenue........................................................... 348,973 331,441 337,081 328,191 301,694 257,117 252,989 213,764 210,291
+Adjusted net revenue(1)....................................................... 342,481 322,238 325,086 314,930 296,965 250,681 244,372 208,032 215,475
+Contribution profit.............................................................. 203,956 183,309 209,898 208,799 180,562 141,991 132,651 105,065 117,668
+Technology Platform
+Net interest income (expense)............................................ $ 573 $ — $ — $ — $ — $ — $ — $ — $ 39
+Total noninterest income.................................................... 89,350 87,623 77,887 85,652 84,777 83,899 60,805 53,299 50,186
+Total net revenue(2)........................................................ 89,923 87,623 77,887 85,652 84,777 83,899 60,805 53,299 50,225
+Contribution profit.............................................................. 32,191 17,154 14,857 16,881 19,536 21,841 18,255 20,008 15,741
+Financial Services
+Net interest income............................................................. $ 93,101 $ 74,637 $ 58,037 $ 45,609 $ 28,158 $ 12,925 $ 5,882 $ 1,785 $ 1,209
+Total noninterest income.................................................... 25,146 23,415 23,064 19,208 20,795 17,438 17,661 20,171 11,411
+Total net revenue........................................................... 118,247 98,052 81,101 64,817 48,953 30,363 23,543 21,956 12,620
+Contribution profit (loss)(2)................................................. 3,260 (4,347) (24,235) (43,588) (52,623) (53,700) (49,515) (35,189) (39,465)
+Corporate/Other
+Net interest expense........................................................... $ (13,926) $ (15,396) $ (23,074) $ (20,632) $ (9,824) $ (4,199) $ (5,303) $ (2,454) $ (1,130)
+Total noninterest income (loss).......................................... (6,008) (3,702) (837) (1,349) (1,615) (4,653) (1,690) (957) —
+Total net revenue (loss)(2).............................................. (19,934) (19,098) (23,911) (21,981) (11,439) (8,852) (6,993) (3,411) (1,130)
+Consolidated
+Net interest income............................................................. $ 344,963 $ 291,126 $ 236,010 $ 208,584 $ 157,850 $ 122,729 $ 94,933 $ 76,577 $ 72,375
+Total noninterest income.................................................... 192,246 206,892 236,148 248,095 266,135 239,798 235,411 209,031 199,631
+Total net revenue........................................................... 537,209 498,018 472,158 456,679 423,985 362,527 330,344 285,608 272,006
+Adjusted net revenue(1)....................................................... 530,717 488,815 460,163 443,418 419,256 356,091 321,727 279,876 277,190
+Net loss............................................................................... (266,684) (47,549) (34,422) (40,006) (74,209) (95,835) (110,357) (111,012) (30,047)
+Adjusted EBITDA(1)........................................................... 98,025 76,819 75,689 70,060 44,298 20,304 8,684 4,593 10,256
+Total permanent equity....................................................... 5,053,388 5,257,661 5,234,072 5,208,102 5,181,003 5,186,180 5,210,299 4,377,329 4,248,529
+Tangible book value (as of period end)(3)........................... 3,272,576 3,204,883 3,191,201 3,142,956 3,101,281 3,079,681 3,089,079 3,194,223 3,048,811
+___________________
+(1) Adjusted net revenue and adjusted EBITDA are non-GAAP financial measures. For additional information on these measures and reconciliations to the most directly comparable GAAP measures, see “Non-
+GAAP Financial Measures” and Table 2 to the “Financial Tables” herein.
+(2) Technology Platform segment total net revenue includes intercompany fees. The equal and offsetting intercompany expenses are reflected within all three segments’ directly attributable expenses, as well as
+within expenses not allocated to segments. The intercompany revenues and expenses are eliminated in consolidation. The revenues are eliminated within Corporate/Other and the expenses represent a reconciling
+item of segment contribution profit (loss) to consolidated loss before income taxes. For the year ended December 31, 2021, all intercompany amounts were reflected in the fourth quarter, as inter-quarter amounts
+were determined to be immaterial.
+(3) Defined as permanent equity, adjusted to exclude goodwill and intangible assets.
+20

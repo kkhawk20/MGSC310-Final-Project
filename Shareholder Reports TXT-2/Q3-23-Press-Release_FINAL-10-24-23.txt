@@ -1,0 +1,536 @@
+Exhibit 99.1
+Snap Inc. Announces Third Quarter 2023 Financial Results
+Revenue increased 5% year-over-year to $1,189 million
+Daily Active Users increased 12% year-over-year to 406 million
+Net loss was $368 million and Adjusted EBITDA was positive $40 million
+SANTA MONICA, Calif. – October 24, 2023 – Snap Inc. (NYSE: SNAP) today announced financial results for the quarter
+ended September 30, 2023.
+“Our revenue returned to positive growth in Q3, increasing 5% year-over-year and flowing through to positive adjusted
+EBITDA as our reprioritized cost structure demonstrated the leverage in our business model,” said Evan Spiegel, CEO.
+“We are focused on improving our advertising platform to drive higher return on investment for our advertising partners,
+and we have evolved our go-to-market efforts to better serve our partners and drive customer success.”
+Jerry Hunter, Chief Operating Officer, has notified Snap that he will retire. Mr. Hunter joined Snap seven years ago and
+served an important role in building the company’s engineering and business structures. Mr. Hunter’s duties and
+responsibilities will be transitioned by the end of the month and he will continue to support Snap through July 1, 2024 to
+help ensure this transition is effective.
+“I am deeply grateful to Jerry for the meaningful contributions he has made over his many years at Snap,” said Evan
+Spiegel. “His work to improve our advertising platform, serve our community, and build a strong team has helped lay the
+foundation for our future growth.”
+Snap Inc. also announced today its board of directors has authorized a stock repurchase program of up to $500 million of
+its Class A common stock. Repurchases of the Class A common stock may be made from time to time, either through open
+market transactions (including through Rule 10b5-1 trading plans) or through privately negotiated transactions in
+accordance with applicable securities laws. The timing and actual number of shares repurchased will depend on a variety of
+factors, including stock price, trading volume, market and economic conditions, and other general business considerations.
+Repurchases under the program have been authorized for 12 months but the program may be modified, suspended, or
+terminated at any time.
+The goal of the program is to utilize the company’s strong balance sheet to opportunistically offset a portion of the dilution
+related to the issuance of restricted stock units to employees as part of the overall compensation program designed to foster
+an ownership culture.
+Repurchases under this program will be funded from existing cash and cash equivalents. As of September 30, 2023, Snap
+had $3.6 billion in cash, cash equivalents, and marketable securities.
+Q3 2023 Financial Summary
+• Revenue was $1,189 million, compared to $1,128 million in the prior year, an increase of 5% year-over-year .
+• Net loss was $368 million, compared to $360 million in the prior year.
+• Adjusted EBITDA was $40 million, compared to $73 million in the prior year.
+• Operating cash flow was $13 million, compared to $56 million in the prior year.
+• Free Cash Flow was $(61) million, compared to $18 million in the prior year.
+• Trailing twelve months operating cash flow was $207 million and trailing twelve months Free Cash Flow was
+$2 million.
+Three Months Ended Nine Months Ended
+September 30, September 30,
+Percent Percent
+2023 2022 Change 2023 2022 Change
+(Unaudited) (in t h ousands, excep t per share amoun ts)
+Revenue $ 1,188,551 $ 1,128,476 5 % $ 3,244,828 $ 3,302,112 (2) %
+$
+Operating loss $ (380,063) $ (435,242) 13 % $ (1,149,666) (1,107,709) (4) %
+$
+Net loss $ (368,256) $ (359,502) (2) % $ (1,074,238) (1,141,193) 6 %
+Adjusted EBITDA(1) $ 40,094 $ 72,640 (45) % $ 2,428 $ 144,298 (98) %
+Net cash provided by (used in)
+operating activities $ 12,781 $ 55,945 (77) % $ 81,947 $ 59,323 38 %
+Free Cash Flow(2) $ (60,654) $ 18,109 (435) % $ (76,061) $ (23,058) (230) %
+Diluted net loss per share
+attributable to common
+stockholders $ (0.23) $ (0.22) (5) % $ (0.67) $ (0.70) 4 %
+Non-GAAP diluted net income
+(loss) per share(3) $ 0.02 $ 0.08 (75) % $ 0.01 $ 0.04 (75) %
+(1) See page 10 for reconciliation of net loss to Adjusted EBITDA. In the third quarter of 2023, we initiated a wind down of our AR
+Enterprise business, which included a reduction of our global employee headcount by approximately 3%. Restructuring charges
+in the third quarter of 2023 were $18.6 million, composed primarily of cash severance and stock-based compensation expenses.
+In the third quarter of 2022, we initiated a strategic reprioritization plan, which included a reduction of our global employee
+headcount by approximately 20%. Restructuring charges in the third quarter of 2022 were $154.6 million, composed primarily of
+severance and related charges, stock-based compensation expense, lease exit and related charges, impairment charges, and
+contract termination charges.
+(2) See page 10 for reconciliation of net cash provided by (used in) operating activities to Free Cash Flow.
+(3) See page 11 for reconciliation of diluted net loss per share to non-GAAP diluted net income (loss) per share.
+2
+Q3 2023 Summary & Key Highlights
+We grew and deepened our engagement with our community:
+• DAUs were 406 million in Q3 2023, an increase of 43 million, or 12%, year-over-year.
+• Total time spent watching Spotlight increased over 200% year-over-year.
+• Since launching My AI, our AI-powered chatbot, over 200 million people have sent over 20 billion messages,
+which we believe makes My AI among the most widely used AI chatbots available today.
+• We launched our new Generative AI powered feature called Dreams, which enables Snapchatters to create
+generative AI selfies.
+• We are seeing more creators posting content to Snapchat, with nearly three times more public Stories posted in the
+US compared to Q3 2022.
+We are focused on accelerating and diversifying our revenue growth:
+• We returned to positive revenue growth this quarter as we continue to execute against our strategy of accelerating
+and diversifying our revenue growth.
+• During Q3, we implemented over 17 major machine learning ranking and optimization improvements for App,
+Web, and Dynamic Product Ad (DPA) optimization goals.
+• We launched our Total Takeover solution, which includes First Commercial, First Lens, and First Story, and lets
+advertisers reserve the first Commercial, Lens, or Snap Ad a Snapchatter sees.
+• Snapchat+, our subscription service that offers exclusive, experimental, and pre-release features, reached over 5
+million subscribers in Q3 2023.
+• We integrated with Shopify Audiences, which enables Shopify Plus merchants to extend their reach and find new
+customers on Snapchat who have high intent to purchase their products.
+• At our 2023 Beauty Summit in September, we announced new advertising tools for beauty brands such as beauty
+AR Lenses and Bitmoji beauty drops.
+We invested in our augmented reality platform:
+• We launched the Real-Time Neural Rendering ML Model in Lens Studio, which enables developers to build AR
+assets from 2D images captured on a phone.
+• We launched Diffuse Indirect Lighting, a new Ray Tracing feature that brings a level of realism to how colors and
+lights reflect and glow onto other objects.
+• We introduced Lens Creator Rewards, a new opportunity for Snap AR creators, developers, and teams to be
+rewarded for building top-performing Lenses on Snapchat.
+• We partnered with MTV for their 2023 Video Music Awards to let the audience live cast their vote for the Best
+New Artist category through an innovative Snapchat Lens via Camera Kit.
+• For the 2023 NFL season, we partnered with the LA Rams and Disguise to deliver a sponsored Princess Cruises
+AR experience powered by Camera Kit in SoFi Stadium.
+• This summer, our AR technology enhanced music festivals across the world, including AR experiences for
+Lollapalooza Paris, in partnership with Live Nation.
+• For the 2023 FIFA Women’s World Cup, we debuted a USWNT “Team Tracker” AR Lens that used advanced AR
+technology, with 3D Bitmoji avatars, stats, news, fun facts, and highlights that updated in real time.
+3
+Q4 2023 Outlook
+As we enter Q4, we anticipate continued growth in our global community and, as a result, our financial forecast for Q4 is
+built on the assumption that DAU will reach 410 million to 412 million. We believe we are on the right path with our
+direct-response advertising platform and are focused on executing against our roadmap to deliver further improvements.
+That said, forward visibility of advertising demand remains limited due to several factors. First, revenue in Q4 is
+historically backweighted, and the revenue mix in Q4 has historically included a relatively higher share from brand
+advertising revenue, and brand advertising grew at a slower rate than direct-response advertising in Q3. In addition, we
+observed pauses in spending from a large number of primarily brand-oriented advertising campaigns immediately
+following the onset of the war in the Middle East, and this has been a headwind to revenue quarter-to-date. While some of
+these campaigns have now resumed, and the impact on our revenue has partially diminished, we continue to observe new
+pauses and the risk that these pauses could persist or increase in magnitude remains. Due to the unpredictable nature of
+war, we believe it would be imprudent to provide formal guidance for Q4. Our internal forecast assumes a revenue range of
+$1,320 million to $1,375 million, implying year-over-year revenue growth of approximately 2% to 6%. Within this range
+of revenue, we estimate that adjusted EBITDA will be between $65 million and $105 million.
+Conference Call Information
+Snap Inc. will host a conference call to discuss the results at 2:30 p.m. Pacific / 5:30 p.m. Eastern today. The live audio
+webcast along with supplemental information will be accessible at investor.snap.com. A recording of the webcast will also
+be available following the conference call.
+Snap Inc. uses its websites (including snap.com and investor.snap.com) as means of disclosing material non-public
+information and for complying with its disclosure obligation under Regulation FD.
+Definitions
+Free Cash Flow is defined as net cash provided by (used in) operating activities, reduced by purchases of property and
+equipment.
+Common shares outstanding plus shares underlying stock-based awards includes common shares outstanding, restricted
+stock units, restricted stock awards, and outstanding stock options.
+Adjusted EBITDA is defined as net income (loss), excluding interest income; interest expense, other income (expense),
+net; income tax benefit (expense); depreciation and amortization; stock-based compensation expense; payroll and other tax
+expense related to stock-based compensation; and certain other non-cash or non-recurring items impacting net income
+(loss) from time to time.
+A Daily Active User (DAU) is defined as a registered Snapchat user who opens the Snapchat application at least once
+during a defined 24-hour period. We calculate average DAUs for a particular quarter by adding the number of DAUs on
+each day of that quarter and dividing that sum by the number of days in that quarter.
+Average revenue per user (ARPU) is defined as quarterly revenue divided by the average DAUs.
+A Monthly Active User (MAU) is defined as a registered Snapchat user who opens the Snapchat application at least once
+during the 30-day period ending on the calendar month-end. We calculate average Monthly Active Users for a particular
+quarter by calculating the average of the MAUs as of each calendar month-end in that quarter.
+Note: For adjustments and additional information regarding the non-GAAP financial measures and other items discussed,
+please see “Non-GAAP Financial Measures,” “Reconciliation of GAAP to Non-GAAP Financial Measures,” and
+“Supplemental Financial Information and Business Metrics.”
+About Snap Inc.
+Snap Inc. is a technology company. We believe the camera presents the greatest opportunity to improve the way people live
+and communicate. We contribute to human progress by empowering people to express themselves, live in the moment,
+learn about the world, and have fun together. For more information, visit snap.com.
+4
+Contact
+Investors and Analysts:
+ir@snap.com
+Press:
+press@snap.com
+Forward-Looking Statements
+This press release contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as
+amended, or the Securities Act, and Section 21E of the Securities Exchange Act of 1934, as amended, or the Exchange Act,
+about us and our industry that involve substantial risks and uncertainties. All statements other than statements of historical
+facts contained in this press release, including statements regarding guidance, our future results of operations or financial
+condition, future stock repurchase programs or stock dividends, business strategy and plans, user growth and engagement,
+product initiatives, objectives of management for future operations, and advertiser and partner offerings, are forward-
+looking statements. In some cases, you can identify forward-looking statements because they contain words such as
+“anticipate,” “believe,” “contemplate,” “continue,” “could,” “estimate,” “expect,” “going to,” “intend,” “may,” “plan,”
+“potential,” “predict,” “project,” “should,” “target,” “will,” or “would” or the negative of these words or other similar terms
+or expressions. We caution you that the foregoing may not include all of the forward-looking statements made in this press
+release.
+You should not rely on forward-looking statements as predictions of future events. We have based the forward-looking
+statements contained in this press release primarily on our current expectations and projections about future events and
+trends, including our financial outlook, macroeconomic uncertainty, and geo-political conflicts, that we believe may
+continue to affect our business, financial condition, results of operations, and prospects. These forward-looking statements
+are subject to risks and uncertainties related to: our financial performance; our ability to attain and sustain profitability; our
+ability to generate and sustain positive cash flow; our ability to attract and retain users, partners, and advertisers;
+competition and new market entrants; managing our growth and future expenses; compliance with new laws, regulations,
+and executive actions; our ability to maintain, protect, and enhance our intellectual property; our ability to succeed in
+existing and new market segments; our ability to attract and retain qualified team members and key personnel; our ability
+to repay or refinance outstanding debt, or to access additional financing; future acquisitions, divestitures, or investments;
+and the potential adverse impact of climate change, natural disasters, health epidemics, macroeconomic conditions, and
+war or other armed conflict, as well as risks, uncertainties, and other factors described in “Risk Factors” and elsewhere in
+our most recent periodic report filed with the U.S. Securities and Exchange Commission, or SEC, which is available on the
+SEC’s website at www.sec.gov. Additional information will be made available in our periodic report that will be filed with
+the SEC for the period covered by this press release and other filings that we make from time to time with the SEC. In
+addition, any forward-looking statements contained in this press release are based on assumptions that we believe to be
+reasonable as of this date. We undertake no obligation to update any forward-looking statements to reflect events or
+circumstances after the date of this press release or to reflect new information or the occurrence of unanticipated events,
+including future developments related to geo-political conflicts and macroeconomic conditions, except as required by law.
+Non-GAAP Financial Measures
+To supplement our consolidated financial statements, which are prepared and presented in accordance with GAAP, we use
+certain non-GAAP financial measures, as described below, to understand and evaluate our core operating performance.
+These non-GAAP financial measures, which may be different than similarly titled measures used by other companies, are
+presented to enhance investors’ overall understanding of our financial performance and should not be considered a
+substitute for, or superior to, the financial information prepared and presented in accordance with GAAP.
+We use the non-GAAP financial measure of Free Cash Flow, which is defined as net cash provided by (used in) operating
+activities, reduced by purchases of property and equipment. We believe Free Cash Flow is an important liquidity measure
+of the cash that is available, after capital expenditures, for operational expenses and investment in our business and is a key
+financial indicator used by management. Additionally, we believe that Free Cash Flow is an important measure since we
+use third-party infrastructure partners to host our services and therefore we do not incur significant capital expenditures to
+support revenue generating activities. Free Cash Flow is useful to investors as a liquidity measure because it measures our
+ability to generate or use cash. Once our business needs and obligations are met, cash can be used to maintain a strong
+balance sheet and invest in future growth.
+5
+We use the non-GAAP financial measure of Adjusted EBITDA, which is defined as net income (loss); excluding interest
+income; interest expense; other income (expense), net; income tax benefit (expense); depreciation and amortization; stock-
+based compensation expense; payroll and other tax expense related to stock-based compensation; and certain other non-
+cash or non-recurring items impacting net income (loss) from time to time. We believe that Adjusted EBITDA helps
+identify underlying trends in our business that could otherwise be masked by the effect of the expenses that we exclude in
+Adjusted EBITDA.
+We use the non-GAAP financial measure of non-GAAP net income (loss), which is defined as net income (loss); excluding
+amortization of intangible assets; stock-based compensation expense; payroll and other tax expense related to stock-based
+compensation; certain other non-cash or non-recurring items impacting net income (loss) from time to time; and related
+income tax adjustments. Non-GAAP net income (loss) and weighted average diluted shares are then used to calculate non-
+GAAP diluted net income (loss) per share. Similar to Adjusted EBITDA, we believe these measures help identify
+underlying trends in our business that could otherwise be masked by the effect of the expenses we exclude in the measure.
+We believe that these non-GAAP financial measures provide useful information about our financial performance, enhance
+the overall understanding of our past performance and future prospects, and allow for greater transparency with respect to
+key metrics used by our management for financial and operational decision-making. We are presenting these non-GAAP
+measures to assist investors in seeing our financial performance through the eyes of management, and because we believe
+that these measures provide an additional tool for investors to use in comparing our core financial performance over
+multiple periods with other companies in our industry.
+For a reconciliation of these non-GAAP financial measures to the most directly comparable GAAP financial measure,
+please see “Reconciliation of GAAP to Non-GAAP Financial Measures.”
+Snap Inc., “Snapchat,” and our other registered and common law trade names, trademarks, and service marks are the
+property of Snap Inc. or our subsidiaries.
+6
+SNAP INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in thousands, unaudited)
+Three Months Ended Nine Months Ended
+September 30, September 30,
+2023 2022 2023 2022
+Cash flows from operating activities
+Net loss $ (368,256) $ (359,502) $ (1,074,238) $ (1,141,193)
+Adjustments to reconcile net loss to net cash provided by
+(used in) operating activities:
+Depreciation and amortization 41,209 36,291 116,117 153,682
+Stock-based compensation 357,933 342,959 990,807 937,213
+Amortization of debt issuance costs 1,842 1,835 5,517 5,028
+Losses (gains) on debt and equity securities, net 21,155 (75,778) 5,888 15,559
+Other (4,395) 12,133 (31,098) 16,337
+Change in operating assets and liabilities, net of
+effect of acquisitions:
+Accounts receivable, net of allowance (128,972) 17,410 55,772 62,436
+Prepaid expenses and other current assets (837) 7,044 (15,139) (32,114)
+Operating lease right-of-use assets 17,904 17,922 53,379 53,205
+Other assets (2,767) (5,095) (3,192) (12,633)
+Accounts payable (16,951) 9,381 (45,497) 60,442
+Accrued expenses and other current liabilities 105,907 60,036 68,697 (17,184)
+Operating lease liabilities (16,181) (12,116) (52,523) (46,431)
+Other liabilities 5,190 3,425 7,457 4,976
+Net cash provided by (used in) operating
+activities 12,781 55,945 81,947 59,323
+Cash flows from investing activities
+Purchases of property and equipment (73,435) (37,836) (158,008) (82,381)
+Purchases of strategic investments — (6,000) (7,770) (12,350)
+Sales of strategic investments 5,151 — 5,151 63,276
+Cash paid for acquisitions, net of cash acquired — (19,650) (50,254) (31,658)
+Purchases of marketable securities (537,046) (821,830) (2,042,317) (2,732,266)
+Sales of marketable securities 16,451 39,158 107,724 51,917
+Maturities of marketable securities 557,579 923,871 2,093,737 1,820,442
+Other (308) (12,648) (432) (18,141)
+Net cash provided by (used in) investing
+activities (31,608) 65,065 (52,169) (941,161)
+Cash flows from financing activities
+Proceeds from issuance of convertible notes, net of
+issuance costs — — — 1,483,500
+Purchase of capped calls — — — (177,000)
+Proceeds from the exercise of stock options 5 217 416 3,871
+Payments of debt issuance costs — — — (3,006)
+Repurchases of Class A non-voting common stock — (500,513) — (500,513)
+Deferred payments for acquisitions (10,441) — (254,557) —
+Net cash provided by (used in) financing
+activities (10,436) (500,296) (254,141) 806,852
+Change in cash, cash equivalents, and
+restricted cash (29,263) (379,286) (224,363) (74,986)
+Cash, cash equivalents, and restricted cash, beginning of
+period 1,228,676 2,299,023 1,423,776 1,994,723
+Cash, cash equivalents, and restricted cash, end of period $ 1,199,413 $ 1,919,737 $ 1,199,413 $ 1,919,737
+Supplemental disclosures
+Cash paid for income taxes, net $ 4,145 $ 1,482 $ 27,210 $ 8,966
+Cash paid for interest $ 4,406 $ 4,186 $ 9,559 $ 8,191
+7
+SNAP INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(in thousands, except per share amounts, unaudited)
+Three Months Ended Nine Months Ended
+September 30, September 30,
+2023 2022 2023 2022
+Revenue $ 1,188,551 $ 1,128,476 $ 3,244,828 $ 3,302,112
+Costs and expenses:
+Cost of revenue 555,753 466,757 1,492,613 1,334,031
+Research and development 494,559 564,258 1,427,334 1,524,858
+Sales and marketing 297,251 270,336 846,281 823,596
+General and administrative 221,051 262,367 628,266 727,336
+Total costs and expenses 1,568,614 1,563,718 4,394,494 4,409,821
+Operating loss (380,063) (435,242) (1,149,666) (1,107,709)
+Interest income 43,839 18,445 124,931 29,899
+Interest expense (5,521) (5,425) (16,749) (16,147)
+Other income (expense), net (20,662) 71,961 (7,967) (22,486)
+Loss before income taxes (362,407) (350,261) (1,049,451) (1,116,443)
+Income tax benefit (expense) (5,849) (9,241) (24,787) (24,750)
+Net loss $ (368,256) $ (359,502) $ (1,074,238) $ (1,141,193)
+Net loss per share attributable to Class A, Class B, and Class
+C common stockholders:
+Basic $ (0.23) $ (0.22) $ (0.67) $ (0.70)
+Diluted $ (0.23) $ (0.22) $ (0.67) $ (0.70)
+Weighted average shares used in computation of net loss per
+share:
+Basic 1,625,917 1,608,523 1,603,672 1,619,885
+Diluted 1,625,917 1,608,523 1,603,672 1,619,885
+8
+SNAP INC.
+CONSOLIDATED BALANCE SHEETS
+(in thousands, except par value, unaudited)
+September 30, December 31,
+2023 2022
+Assets
+Current assets
+Cash and cash equivalents $ 1,199,366 $ 1,423,121
+Marketable securities 2,414,132 2,516,003
+Accounts receivable, net of allowance 1,116,511 1,183,092
+Prepaid expenses and other current assets 144,251 134,431
+Total current assets 4,874,260 5,256,647
+Property and equipment, net 377,320 271,777
+Operating lease right-of-use assets 344,681 370,952
+Intangible assets, net 183,866 204,480
+Goodwill 1,691,542 1,646,120
+Other assets 251,236 279,562
+Total assets $ 7,722,905 $ 8,029,538
+Liabilities and Stockholders’ Equity
+Current liabilities
+Accounts payable $ 128,546 $ 181,774
+Operating lease liabilities 62,111 46,485
+Accrued expenses and other current liabilities 818,915 987,340
+Total current liabilities 1,009,572 1,215,599
+Convertible senior notes, net 3,747,677 3,742,520
+Operating lease liabilities, noncurrent 346,508 386,271
+Other liabilities 126,127 104,450
+Total liabilities 5,229,884 5,448,840
+Commitments and contingencies
+Stockholders’ equity
+Class A non-voting common stock, $0.00001 par value. 3,000,000 shares authorized,
+1,434,766 shares issued, 1,384,738 shares outstanding at September 30, 2023, and 3,000,000
+shares authorized, 1,371,242 shares issued, 1,319,930 shares outstanding at December 31,
+2022. 14 13
+Class B voting common stock, $0.00001 par value. 700,000 shares authorized, 22,540 shares
+issued and outstanding at September 30, 2023, and 700,000 shares authorized, 22,529 shares
+issued and outstanding at December 31, 2022. — —
+Class C voting common stock, $0.00001 par value. 260,888 shares authorized, 231,627 shares
+issued and outstanding at September 30, 2023 and December 31, 2022. 2 2
+Treasury stock, at cost. 50,028 and 51,312 shares of Class A non-voting common stock at
+September 30, 2023 and December 31, 2022, respectively. (487,982) (500,514)
+Additional paid-in capital 14,287,664 13,309,828
+Accumulated deficit (11,288,895) (10,214,657)
+Accumulated other comprehensive income (loss) (17,782) (13,974)
+Total stockholders’ equity 2,493,021 2,580,698
+Total liabilities and stockholders’ equity $ 7,722,905 $ 8,029,538
+9
+SNAP INC.
+RECONCILIATION OF GAAP TO NON-GAAP FINANCIAL MEASURES
+(in thousands, unaudited)
+Three Months Ended Nine Months Ended
+September 30, September 30,
+2023 2022 2023 2022
+Free Cash Flow reconciliation:
+Net cash provided by (used in) operating activities $ 12,781 $ 55,945 $ 81,947 $ 59,323
+Less:
+Purchases of property and equipment (73,435) (37,836) (158,008) (82,381)
+Free Cash Flow $ (60,654) $ 18,109 $ (76,061) $ (23,058)
+Three Months Ended Nine Months Ended
+September 30, September 30,
+2023 2022 2023 2022
+Adjusted EBITDA reconciliation:
+Net loss $ (368,256) $ (359,502) $ (1,074,238) $ (1,141,193)
+Add (deduct):
+Interest income (43,839) (18,445) (124,931) (29,899)
+Interest expense 5,521 5,425 16,749 16,147
+Other (income) expense, net 20,662 (71,961) 7,967 22,486
+Income tax (benefit) expense 5,849 9,241 24,787 24,750
+Depreciation and amortization 41,209 34,068 116,117 151,459
+Stock-based compensation expense 353,846 312,690 986,720 906,944
+Payroll and other tax expense related to stock-
+based compensation 6,463 6,561 30,618 39,041
+Restructuring charges (1) 18,639 154,563 18,639 154,563
+Adjusted EBITDA $ 40,094 $ 72,640 $ 2,428 $ 144,298
+(1) Restructuring charges in the third quarter of 2023 were composed primarily of cash severance and stock-based compensation
+expense. Restructuring charges in the third quarter of 2022 were composed primarily of severance and related charges of
+$91.1 million, stock-based compensation expense, lease exit and related charges, impairment charges, and contract termination
+charges. These charges are non-recurring and not reflective of underlying trends in our business.
+Total depreciation and amortization expense by function:
+Three Months Ended Nine Months Ended
+September 30, September 30,
+2023 2022 2023 2022
+Depreciation and amortization expense: (1)
+Cost of revenue $ 3,184 $ 5,548 $ 9,580 $ 16,121
+Research and development 26,252 23,722 75,238 68,207
+Sales and marketing 5,466 4,586 16,144 61,039
+General and administrative 6,307 2,435 15,155 8,315
+Total $ 41,209 $ 36,291 $ 116,117 $ 153,682
+(1) Depreciation and amortization expense for the three and nine months ended September 30, 2022 includes restructuring charges.
+10
+SNAP INC.
+RECONCILIATION OF GAAP TO NON-GAAP FINANCIAL MEASURES (continued)
+(in thousands, except per share amounts, unaudited)
+Total stock-based compensation expense by function:
+Three Months Ended Nine Months Ended
+September 30, September 30,
+2023 2022 2023 2022
+Stock-based compensation expense: (1)
+Cost of revenue $ 2,640 $ 2,745 $ 6,890 $ 8,040
+Research and development 234,615 246,783 672,030 651,299
+Sales and marketing 72,783 43,098 185,319 133,746
+General and administrative 47,895 50,333 126,568 144,128
+Total $ 357,933 $ 342,959 $ 990,807 $ 937,213
+(1) Stock-based compensation expense for the three and nine months ended September 30, 2023 and 2022 includes restructuring
+charges.
+Three Months Ended Nine Months Ended
+September 30, September 30,
+2023 2022 2023 2022
+Non-GAAP net income (loss) reconciliation:
+Net loss $ (368,256) $ (359,502) $ (1,074,238) $ (1,141,193)
+Amortization of intangible assets 19,134 18,701 55,294 105,340
+Stock-based compensation expense 353,846 312,690 986,720 906,944
+Payroll and other tax expense related to stock-
+based compensation 6,463 6,561 30,618 39,041
+Restructuring charges (1) 18,639 154,563 18,639 154,563
+Income tax adjustments (573) (954) (810) (1,519)
+Non-GAAP net income (loss) $ 29,253 $ 132,059 $ 16,223 $ 63,176
+Weighted-average common shares - Diluted 1,625,917 1,608,523 1,603,672 1,619,885
+Non-GAAP diluted net income (loss) per share
+reconciliation:
+Diluted net loss per share $ (0.23) $ (0.22) $ (0.67) $ (0.70)
+Non-GAAP adjustment to net loss 0.25 0.30 0.68 0.74
+Non-GAAP diluted net income (loss) per share $ 0.02 $ 0.08 $ 0.01 $ 0.04
+(1) Restructuring charges in the third quarter of 2023 were composed primarily of cash severance and stock-based compensation
+expenses. Restructuring charges in the third quarter of 2022 were composed primarily of severance and related charges of
+$91.1 million, stock-based compensation expense, lease exit and related charges, impairment charges, and contract termination
+charges. These charges are non-recurring and not reflective of underlying trends in our business.
+11
+SNAP INC.
+SUPPLEMENTAL FINANCIAL INFORMATION AND BUSINESS METRICS
+(dollars and shares in thousands, except per user amounts, unaudited)
+Q2 2022 Q3 2022 Q4 2022 Q1 2023 Q2 2023 Q3 2023
+(NM = Not Meaningful)
+Cash Flows and Shares
+Net cash provided by (used in) operating
+activities $ (124,081) $ 55,945 $ 125,291 $ 151,102 $ (81,936) $ 12,781
+Net cash provided by (used in) operating
+activities - YoY (year-over-year) 23 % (22) % (32) % 19 % 34 % (77) %
+Net cash provided by (used in) operating
+activities - TTM (trailing twelve months) $ 260,458 $ 244,851 $ 184,614 $ 208,257 $ 250,402 $ 207,238
+Purchases of property and equipment $ (23,370) $ (37,836) $ (46,925) $ (47,630) $ (36,943) $ (73,435)
+Purchases of property and equipment - YoY 60 % 91 % 91 % (125) % (58) % (94) %
+Purchases of property and equipment - TTM $ (88,946) $ (106,946) $ (129,306) $ (155,761) $ (169,334) $ (204,933)
+Free Cash Flow $ (147,451) $ 18,109 $ 78,366 $ 103,472 $ (118,879) $ (60,654)
+Free Cash Flow - YoY (27) % (65) % (51) % (3) % 19 % (435) %
+Free Cash Flow - TTM $ 171,512 $ 137,905 $ 55,308 $ 52,496 $ 81,068 $ 2,305
+Common shares outstanding 1,644,974 1,605,868 1,574,086 1,595,205 1,616,119 1,638,905
+Common shares outstanding - YoY 4 % — % (3) % (2) % (2) % 2 %
+Shares underlying stock-based awards 92,105 94,772 131,718 128,218 149,065 154,525
+Shares underlying stock-based awards - YoY (12) % 2 % 59 % 71 % 62 % 63 %
+Total common shares outstanding plus shares
+underlying stock-based awards 1,737,079 1,700,640 1,705,804 1,723,423 1,765,184 1,793,430
+Total common shares outstanding plus shares
+underlying stock-based awards - YoY 3 % — % — % 1 % 2 % 5 %
+Results of Operations
+Revenue $ 1,110,909 $ 1,128,476 $ 1,299,735 $ 988,608 $ 1,067,669 $ 1,188,551
+Revenue - YoY 13 % 6 % 0.1 % (7) % (4) % 5 %
+Revenue - TTM $ 4,538,992 $ 4,599,997 $ 4,601,847 $ 4,527,728 $ 4,484,488 $ 4,544,563
+Revenue by region (1)
+North America $ 785,681 $ 811,602 $ 880,310 $ 639,896 $ 686,829 $ 786,154
+North America - YoY 12 % 3 % (6) % (16) % (13) % (3) %
+North America - TTM $ 3,262,936 $ 3,287,621 $ 3,235,854 $ 3,117,489 $ 3,018,637 $ 2,993,189
+Europe $ 170,097 $ 161,396 $ 218,552 $ 157,760 $ 182,109 $ 200,272
+Europe - YoY 12 % 5 % 5 % (3) % 7 % 24 %
+Europe - TTM $ 694,262 $ 702,537 $ 712,177 $ 707,805 $ 719,817 $ 758,693
+Rest of World $ 155,131 $ 155,478 $ 200,873 $ 190,952 $ 198,731 $ 202,125
+Rest of World - YoY 21 % 22 % 28 % 34 % 28 % 30 %
+Rest of World - TTM $ 581,794 $ 609,839 $ 653,816 $ 702,434 $ 746,034 $ 792,681
+Operating loss $ (400,940) $ (435,242) $ (287,597) $ (365,264) $ (404,339) $ (380,063)
+Operating loss - YoY (108) % (141) % NM (35) % (1) % 13 %
+Operating loss - Margin (36) % (39) % (22) % (37) % (38) % (32) %
+Operating loss - TTM $ (878,418) $ (1,132,836) $ (1,395,306) $ (1,489,043) $ (1,492,442) $ (1,437,263)
+Net income (loss) $ (422,067) $ (359,502) $ (288,460) $ (328,674) $ (377,308) $ (368,256)
+Net income (loss) - YoY (178) % (400) % NM 9 % 11 % (2) %
+Net income (loss) - TTM $ (831,100) $ (1,118,643) $ (1,429,653) $ (1,398,703) $ (1,353,944) $ (1,362,698)
+Adjusted EBITDA $ 7,190 $ 72,640 $ 233,275 $ 813 $ (38,479) $ 40,094
+Adjusted EBITDA - YoY (94) % (58) % (29) % (99) % (635) % (45) %
+Adjusted EBITDA - Margin (2) 1 % 6 % 18 % 0.1 % (4) % 3 %
+Adjusted EBITDA - TTM $ 572,650 $ 471,091 $ 377,573 $ 313,918 $ 268,249 $ 235,703
+(1) Total revenue for geographic reporting is apportioned to each region based on our determination of the geographic location in
+which advertising impressions are delivered, as this approximates revenue based on user activity. This allocation is consistent
+with how we determine ARPU.
+(2) We define Adjusted EBITDA margin as Adjusted EBITDA divided by GAAP revenue.
+12
+SNAP INC.
+SUPPLEMENTAL FINANCIAL INFORMATION AND BUSINESS METRICS (continued)
+(dollars and shares in thousands, except per user amounts, unaudited)
+Q2 2022 Q3 2022 Q4 2022 Q1 2023 Q2 2023 Q3 2023
+Other
+DAU (in millions) (1) 347 363 375 383 397 406
+DAU - YoY 18 % 19 % 17 % 15 % 14 % 12 %
+DAU by region (in millions)
+North America 99 100 100 100 101 101
+North America - YoY 4 % 4 % 3 % 3 % 2 % 1 %
+Europe 86 88 92 93 94 95
+Europe - YoY 10 % 11 % 12 % 10 % 9 % 7 %
+Rest of World 162 175 183 190 202 211
+Rest of World - YoY 35 % 34 % 31 % 27 % 25 % 21 %
+ARPU $ 3.20 $ 3.11 $ 3.47 $ 2.58 $ 2.69 $ 2.93
+ARPU - YoY (4) % (11) % (15) % (19) % (16) % (6) %
+ARPU by region
+North America $ 7.93 $ 8.13 $ 8.77 $ 6.37 $ 6.83 $ 7.82
+North America - YoY 8 % (1) % (9) % (18) % (14) % (4) %
+Europe $ 1.98 $ 1.83 $ 2.38 $ 1.70 $ 1.93 $ 2.11
+Europe - YoY 2 % (5) % (6) % (12) % (2) % 15 %
+Rest of World $ 0.96 $ 0.89 $ 1.10 $ 1.00 $ 0.98 $ 0.96
+Rest of World - YoY (11) % (9) % (2) % 6 % 3 % 8 %
+Employees (full-time; excludes part-time,
+contractors, and temporary personnel) 6,446 5,706 5,288 5,201 5,286 5,367
+Employees - YoY 38 % 10 % (7) % (15) % (18) % (6) %
+Depreciation and amortization expense
+Cost of revenue $ 5,061 $ 5,548 $ 8,114 $ 3,226 $ 3,170 $ 3,184
+Research and development 22,362 23,722 29,834 24,139 24,847 26,252
+Sales and marketing 49,061 4,586 6,130 5,073 5,605 5,466
+General and administrative 2,807 2,435 4,413 2,782 6,066 6,307
+Total $ 79,291 $ 36,291 $ 48,491 $ 35,220 $ 39,688 $ 41,209
+Depreciation and amortization expense - YoY 180 % 12 % 39 % (8) % (50) % 14 %
+Stock-based compensation expense
+Cost of revenue $ 2,849 $ 2,745 $ 4,248 $ 1,885 $ 2,365 $ 2,640
+Research and development 221,650 246,783 319,447 219,850 217,565 234,615
+Sales and marketing 48,577 43,098 69,346 54,939 57,597 72,783
+General and administrative 45,734 50,333 57,533 38,257 40,416 47,895
+Total $ 318,810 $ 342,959 $ 450,574 $ 314,931 $ 317,943 $ 357,933
+Stock-based compensation expense - YoY 24 % 14 % 51 % 14 % — % 4 %
+(1) Numbers may not foot due to rounding.
+13

@@ -1,0 +1,389 @@
+Search
+English
+Keywords...
+HOME CORPORATE NEWS FINANCIAL SUSTAINABILITY/ESG STOCK RESOURCES
+GOVERNANCE & INFORMATION INFORMATION
+EVENTS
+News Releases
+Lufax Reports Third Quarter 2023 Financial Results
+      
+SHANGHAI, Nov. 13, 2023 /PRNewswire/ -- Lufax Holding Ltd ("Lufax" or the "Company") (NYSE:
+LU and HKEX: 6623), a leading financial services enabler for small business owners in China,
+today announced its unaudited financial results for the third quarter ended September 30,
+2023.
+Third Quarter 2023 Financial Highlights
+Total income was RMB8,050 million (US$1,103 million) in the third quarter of 2023,
+compared to RMB13,193 million in the same period of 2022.
+Net profit was RMB131 million (US$18 million) in the third quarter of 2023, compared to
+RMB1,355 million in the same period of 2022.
+(In millions except percentages, unaudited) Three Months Ended September 30,
+2022 2023 YoY
+RMB RMB USD
+Total income 13,193 8,050 1,103 (39.0 %)
+Total expenses (11,082) (7,747) (1,062) (30.1 %)
+Total expenses excluding credit
+and asset impairment losses, finance
+costs and other (gains)/losses (6,746) (4,650) (637) (31.1 %)
+Credit and asset impairment losses,
+finance costs and other (gains)/losses (4,336) (3,097) (424) (28.6 %)
+Net profit 1,355 131 18 (90.3 %)
+Third Quarter 2023 Operational Highlights
+Outstanding balance of loans enabled was RMB366.3 billion as of September 30, 2023
+compared to RMB636.5 billion as of September 30, 2022, representing a decrease of
+42.5%.
+Cumulative number of borrowers increased by 6.8% to approximately 20.0 million as of
+September 30, 2023 from approximately 18.7 million as of September 30, 2022.
+New loans enabled were RMB50.5 billion in the third quarter of 2023, compared to
+RMB123.8 billion in the same period of 2022, representing a decrease of 59.2%.
+During the third quarter of 2023, excluding the consumer finance subsidiary, the Company
+bore risk on 54.3% of its new loans enabled, up from 21.7% in the same period of 2022.
+As of September 30, 2023, including the consumer finance subsidiary, the Company bore
+risk on 31.8% of its outstanding balance, up from 22.5% as of September 30, 2022. Credit
+enhancement partners bore risk on 65.7% of outstanding balance, among which Ping
+An P&C accounted for a majority.
+As of September 30, 2023, excluding the consumer finance subsidiary, the Company bore
+risk on 25.7% of its outstanding balance, up from 19.1% as of September 30, 2022.
+[1]
+For the third quarter of 2023, the Company's retail credit enablement business take rate
+based on loan balance was 7.8%, unchanged from the third quarter of 2022.
+[2]
+C-M3 flow rate for the total loans the Company had enabled was 1.1% in the third
+quarter of 2023, compared to 1.0% the second quarter of 2023. Flow rates for the general
+unsecured loans and secured loans the Company had enabled were 1.2% and 0.7%
+respectively in the third quarter of 2023, as compared to 1.2% and 0.5% respectively in the
+second quarter of 2023.
+[3]
+Days past due ("DPD") 30+ delinquency rate for the total loans the Company had
+enabled was 6.0% as of September 30, 2023, as compared to 5.9% as of June 30, 2023.
+DPD 30+ delinquency rate for general unsecured loans was 6.9% as of September 30,
+2023, as compared to 6.8% as of June 30, 2023. DPD 30+ delinquency rate for secured
+loans was 3.4% as of September 30, 2023, as compared to 2.9% as of June 30, 2023.
+[4]
+DPD 90+ delinquency rate for total loans enabled was 3.7% as of September 30, 2023,
+as compared to 3.6% as of June 30, 2023. DPD 90+ delinquency rate for general
+unsecured loans was 4.2% as of September 30, 2023, as compared to 4.2% as of June 30,
+2023. DPD 90+ delinquency rate for secured loans was 1.9% as of September 30, 2023, as
+compared to 1.7% as of June 30, 2023.
+[5]
+As of September 30, 2023, Non-performing loan (NPL) ratio for consumer finance loans
+was 1.9% as compared to 2.2% as of June 30, 2023.
+[1]
+The take rate of retail credit enablement business is calculated by dividing the aggregated
+amount of loan enablement service fees, post-origination service fees, net interest income,
+guarantee income and the penalty fees and account management fees by the average
+outstanding balance of loans enabled for each period.
+[2]
+Flow rate estimates the percentage of current loans that will become non-performing at the
+end of three months, and is defined as the product of (i) the loan balance that is overdue from
+1 to 29 days as a percentage of the total current loan balance of the previous month, (ii) the
+loan balance that is overdue from 30 to 59 days as a percentage of the loan balance that was
+overdue from 1 to 29 days in the previous month, and (iii) the loan balance that is overdue
+from 60 to 89 days as a percentage of the loan balance that was overdue from 30 days to 59
+days in the previous month. Loans from legacy products and consumer finance subsidiary are
+excluded from the flow rate calculation.
+[3]
+DPD 30+ delinquency rate refers to the outstanding balance of loans for which any payment
+is 30 to 179 calendar days past due divided by the outstanding balance of loans. Loans from
+legacy products and consumer finance subsidiary are excluded from the calculation.
+[4]
+DPD 90+ delinquency rate refers to the outstanding balance of loans for which any payment
+is 90 to 179 calendar days past due divided by the outstanding balance of loans. Loans from
+legacy products and consumer finance subsidiary are excluded from the calculation.
+[5]
+Non-performing loan ratio for consumer finance loans is calculated by using the
+outstanding balance of consumer finance loans for which any payment is 61 or more calendar
+days past due and not written off, and certain restructured loans, divided by the outstanding
+balance of consumer finance loans.
+Mr. YongSuk Cho, Chairman and Chief Executive Officer of Lufax, commented, "While recent
+data has indicated that China's economy is on the road to recovery, high-quality demand for
+loans from SBOs remained weak in the third quarter. Given this environment, we took steps to
+further de-risk and diversify our business during the quarter, emphasizing prudent decision-
+making and long-term, sustainable growth. We continued to prioritize asset quality over
+quantity, with early indicators suggesting that the asset quality of new loans enabled in 2023 is
+in line with our expectations, though not yet recovered to pre-COVID levels. We have also
+secured sufficient credit lines from our funding partners to support our 100% guarantee model
+for the remainder of 2023 and throughout 2024, laying the foundation for an improved take
+rate in the long term. Meanwhile, our consumer finance business continued to record healthy
+growth during the third quarter, with new loan sales volume increasing by 15.3% sequentially
+and 48.5% year over year. As part of our diversification efforts, we plan to acquire 100% of the
+equity interest of Ping An OneConnect Bank, pending the approval of the Hong Kong Monetary
+Authority and OneConnect's shareholders. PAOB is a fully licensed bank with a service scope
+similar to traditional banks. As of June 30, 2023, a significant portion of PAOB's loan balance is
+backed by the Hong Kong government's SME Financing Guarantee Scheme and its capital
+adequacy ratio was 100%, which was substantially higher than the relevant regulatory
+requirement. We believe the business and target customers of PAOB sync well with our existing
+operations."
+Mr. Gregory Gibb, Co-Chief Executive Officer of Lufax, commented, "During the third quarter, we
+doubled down on our goals of further improving efficiency and reinforcing the strategies that
+will fuel our future success. While our Puhui loan business faced pressure in generating new
+loan sales with asset quality that meets our tightened-up criteria, productivity of our direct sales
+team improved by 25.4% quarter over quarter, with 68% of new loans enabled in the third
+quarter coming from our direct sales team, compared to 61% in the prior quarter. On the risk
+performance front, the C-M3 flow rate of our Puhui business rose from 1.0% to 1.1%
+sequentially, due in part to a decrease of 16.1% in the outstanding loan balance of Puhui
+portfolios. Our consumer finance business experienced solid growth in new loan sales while
+maintaining a healthy asset quality. As the SBO segment faces lingering uncertainty and may
+need more time to recover, we plan to continue to grow our consumer finance business. Finally,
+we would like to express our ongoing gratitude to our shareholders for their continued support.
+We distributed our first half 2023 dividends in October, totaling US$89 million, and will continue
+to use our best efforts to deliver value to our shareholders."
+Mr. David Choy, Chief Financial Officer of Lufax, commented, "We remained committed to our
+cost optimization efforts during the third quarter. Our total expenses decreased by 30.1% from
+the same period of the prior year, and despite top-line pressure, we recorded a net profit of
+RMB131.0 million for the quarter. In alignment with our emphasis on stability and resilience, our
+guarantee subsidiary's leverage ratio was only 1.6x at the end of the quarter, compared to the
+regulatory limit of 10x. Meanwhile, our cash at bank amounted to RMB39.8 billion as of
+September 30, 2023. We remain confident in our ability to maintain our operational prudence
+and generate sustainable growth."
+Third Quarter 2023 Financial Results
+TOTAL INCOME
+Total income was RMB8,050 million (US$1,103 million) in the third quarter of 2023, compared to
+RMB13,193 million in the same period of 2022, representing a decrease of 39.0%.
+View News Release
+Full SThcrreeee Mnonths Ended September 30,
+(In millions except percentages,
+unaudited) 2022 2023 YoY
+RMB % of income RMB % of income
+Technology platform-based income 6,672 50.6 % 3,259 40.5 % (51.2 %)
+Net interest income 4,618 35.0 % 3,307 41.1 % (28.4 %)
+Guarantee income 1,863 14.1 % 941 11.7 % (49.5 %)
+Other income (129) (1.0 %) 291 3.6 % (326.6 %)
+Investment income 168 1.3 % 253 3.1 % 50.5 %
+Share of net profits of investments
+accounted for using the equity method 0 0.0 % (1) (0.0 %) (692.0 %)
+Total income 13,193 100.0 % 8,050 100.0 % (39.0 %)
+Technology platform-based income was RMB3,259 million (US$447 million) in the third
+quarter of 2023, compared to RMB6,672 million in the same period of 2022, representing
+a decrease of 51.2%, due to 1) the decrease of retail credit service fees driven by the
+decrease in new loan sales and loan balance and 2) the decrease of referral and other
+technology platform-based income driven by the decrease in transaction volume.
+Net interest income was RMB3,307 million (US$453 million) in the third quarter of 2023,
+compared to RMB4,618 million in the same period of 2022, representing a decrease of
+28.4%, mainly due to the decrease in loan balance, partly offset by the increase of net
+interest income from the Company's consumer finance business.
+Guarantee income was RMB941 million (US$129 million) in the third quarter of 2023,
+compared to RMB1,863 million in the same period of 2022, representing a decrease of
+49.5%, primarily due to the decrease in loan balance and a lower fee rate.
+Other income was RMB291 million (US$40 million) in the third quarter of 2023, compared
+to other loss of RMB129 million in the same period of 2022. The increase was mainly due
+to the low base of the same period last year due to a refund of account management fees
+to the Company's primary credit enhancement partner in that period.
+Investment income was RMB253 million (US$35 million) in the third quarter of 2023,
+compared to RMB168 million in the same period of 2022, mainly due to the decreased
+impairment loss of investment assets' fair value compared to the same period of last year.
+TOTAL EXPENSES
+Total expenses decreased by 30.1% to RMB7,747 million (US$1,062 million) in the third quarter
+of 2023 from RMB11,082 million in the same period of 2022. This decrease was mainly driven by
+sales and marketing expenses, as sales and marketing expenses decreased by 43.7% to
+RMB2,290 million (US$314 million) in the third quarter of 2023 from RMB4,071 million in the
+same period of 2022. Total expenses excluding credit impairment losses, asset impairment
+losses, finance costs and other (gains)/losses decreased by 31.1% to RMB4,650 million (US$637
+million) in the third quarter of 2023 from RMB6,746 million in the same period of 2022.
+View News Release
+Full ScreeTnhree Months Ended September 30,
+(In millions except percentages, unaudited) 2022 2023
+RMB % of income RMB % of income
+Sales and marketing expenses 4,071 30.9 % 2,290 28.5 %
+General and administrative expenses 592 4.5 % 500 6.2 %
+Operation and servicing expenses 1,600 12.1 % 1,478 18.4 %
+Technology and analytics expenses 484 3.7 % 382 4.7 %
+Credit impairment losses 3,956 30.0 % 3,001 37.3 %
+Asset impairment losses 68 0.5 % - -
+Finance costs 306 2.3 % 40 0.5 %
+Other (gains)/losses - net 7 0.1 % 56 0.7 %
+Total expenses 11,082 84.0 % 7,747 96.2 %
+Sales and marketing expenses decreased by 43.7% to RMB2,290 million (US$314 million)
+in the third quarter of 2023 from RMB4,071 million in the same period of 2022. The
+decrease was mainly due to 1) the decreased borrowers acquisition costs as a result of the
+decrease in new loan sales and 2) decreased investor acquisition and retention expenses
+and referral expenses from platform service attributable to the decreased transaction
+volume.
+General and administrative expenses decreased by 15.6% to RMB500 million (US$69
+million) in the third quarter of 2023 from RMB592 million in the same period of 2022,
+mainly due to the Company's expense control measures and the decrease of tax and
+surcharge.
+Operation and servicing expenses decreased by 7.6% to RMB1,478 million (US$203
+million) in the third quarter of 2023 from RMB1,600 million in the same period of 2022,
+due to the Company's expense control measures and decrease of loan balance, partially
+offset by increasing resources invested in collection services.
+Technology and analytics expenses decreased by 21.0% to RMB382 million (US$52
+million) in the third quarter of 2023 from RMB484 million in the same period of 2022 due
+to 1) the optimization of technology and the research team, and 2) the Company's
+improved efficiency.
+Credit impairment losses decreased by 24.1% to RMB3,001 million (US$411 million) in the
+third quarter of 2023 from RMB3,956 million in the same period of 2022, mainly due to
+the decrease in provision of loans and receivables as a result of the decreased loan
+balance.
+Finance costs decreased by 86.9% to RMB40 million (US$5 million) in the third quarter of
+2023 from RMB306 million in the same period of 2022, mainly due to the increase of
+interest income from bank deposits and the decrease of interest as a result of our early
+repayment of our Ping An Convertible Promissory Notes and other dollar debt.
+Other losses increased to RMB56 million (US$8 million) in the third quarter of 2023 from
+RMB7 million in the same period of 2022, mainly due to the decrease of government
+subsidies, partially offset by the decrease in foreign exchange losses.
+NET PROFIT
+Net profit was RMB131 million (US$18 million) in the third quarter of 2023, compared to
+RMB1,355 million in the same period of 2022, as a result of the aforementioned factors.
+EARNINGS PER ADS
+Basic and diluted earnings per American Depositary Share ("ADS") were both RMB0.04
+(US$0.01) in the third quarter of 2023. Each two ADSs represents one ordinary share ("Share").
+BALANCE SHEET
+The Company had RMB39,781 million (US$5,452 million) in cash at bank as of September 30,
+2023, as compared to RMB43,882 million as of December 31, 2022. Net assets of the Company
+amounted to RMB94,325 million (US$12,928 million) as of September 30, 2023, as compared to
+RMB94,787 million as of December 31, 2022.
+Conference Call Information
+The Company's management will hold an earnings conference call at 8:00 P.M. U.S. Eastern
+Time on Monday, November 13, 2023 (9:00 A.M. Beijing Time on Tuesday, November 14, 2023)
+to discuss the financial results. For participants who wish to join the call, please complete online
+registration using the link provided below in advance of the conference call. Upon registering,
+each participant will receive a set of participant dial-in numbers, the event passcode, and a
+unique access PIN, which can be used to join the conference call.
+Registration Link: https://dpregister.com/sreg/10183871/fae48531ac
+A live and archived webcast of the conference call will also be available at the Company's
+investor relations website at https://ir.lufaxholding.com.
+The replay will be accessible through November 20, 2023, by dialing the following numbers:
+United States: 1-877-344-7529
+International: 1-412-317-0088
+Conference ID: 9517380
+About Lufax
+Lufax is a leading financial services enabler for small business owners in China. The Company
+offers financing products designed principally to address the needs of small business owners. In
+doing so, the Company has established relationships with 91 financial institutions in China as
+funding and credit enhancement partners, many of which have worked with the Company for
+over three years.
+Exchange Rate Information
+This announcement contains translations of certain RMB amounts into U.S. dollars at a specified
+rate solely for the convenience of the reader. Unless otherwise noted, all translations from RMB
+to U.S. dollars are made at a rate of RMB7.2960 to US$1.00, the rate in effect as of
+September 30, 2023, as certified for customs purposes by the Federal Reserve Bank of New
+York.
+Safe Harbor Statement
+This announcement contains forward-looking statements. These statements are made under
+the "safe harbor" provisions of the United States Private Securities Litigation Reform Act of 1995.
+These forward-looking statements can be identified by terminology such as "will," "expects,"
+"anticipates," "future," "intends," "plans," "believes," "estimates" and similar statements.
+Statements that are not historical facts, including statements about Lufax's beliefs and
+expectations, are forward-looking statements. Lufax has based these forward-looking
+statements largely on its current expectations and projections about future events and financial
+trends, which involve known or unknown risks, uncertainties and other factors, all of which are
+difficult to predict and many of which are beyond the Company's control. These forward-looking
+statements include, but are not limited to, statements about Lufax's goals and strategies; Lufax's
+future business development, financial condition and results of operations; expected changes in
+Lufax's income, expenses or expenditures; expected growth of the retail credit enablement;
+Lufax's expectations regarding demand for, and market acceptance of, its services; Lufax's
+expectations regarding its relationship with borrowers, platform investors, funding sources,
+product providers and other business partners; general economic and business conditions; and
+government policies and regulations relating to the industry Lufax operates in. Forward-looking
+statements involve inherent risks and uncertainties. Further information regarding these and
+other risks is included in Lufax's filings with the U.S. Securities and Exchange Commission. All
+information provided in this press release is as of the date of this press release, and Lufax does
+not undertake any obligation to update any forward-looking statement, except as required
+under applicable law.
+Investor Relations Contact
+Lufax Holding Ltd
+Email: Investor_Relations@lu.com
+ICR, LLC
+Robin Yang
+Tel: +1 (646) 308-0546
+Email: lufax.ir@icrinc.com
+View News Release
+Full Screen LUFAX HOLDING LTD
+UNAUDITED INTERIM CONDENSED CONSOLIDATED INCOME STATEMENTS
+(All amounts in thousands, except share data, or otherwise noted)
+Three Months Ended September 30, Nine Months Ended September 30,
+2022 2023 2022
+RMB RMB USD RMB
+Technology platform-based income 6,672,443 3,259,370 446,734 23,344,095
+Net interest income 4,618,100 3,307,385 453,315 14,611,906
+Guarantee income 1,863,293 940,803 128,948 5,701,766
+Other income (128,500) 291,132 39,903 1,107,077
+Investment income 167,809 252,599 34,622 1,031,031
+Share of net profits of investments accounted for
+using the equity method 138 (817) (112) 1,515
+Total income 13,193,283 8,050,472 1,103,409 45,797,390
+Sales and marketing expenses (4,070,803) (2,290,403) (313,926) (12,050,538)
+General and administrative expenses (592,216) (499,899) (68,517) (2,079,697)
+Operation and servicing expenses (1,599,564) (1,477,852) (202,556) (4,770,562)
+Technology and analytics expenses (483,617) (382,161) (52,380) (1,414,885)
+Credit impairment losses (3,955,506) (3,001,108) (411,336) (10,291,935)
+Asset impairment losses (68,051) - - (420,007)
+Finance costs (305,879) (39,960) (5,477) (737,950)
+Other gains/(losses) - net (6,631) (55,794) (7,647) (415,322)
+Total expenses (11,082,267) (7,747,177) (1,061,839) (32,180,896)
+Profit before income tax expenses 2,111,016 303,295 41,570 13,616,494
+Income tax expenses (756,377) (172,322) (23,619) (4,035,520)
+Net profit for the period 1,354,639 130,973 17,951 9,580,974
+Net profit/(loss) attributable to:
+Owners of the Group 1,326,757 93,778 12,853 9,514,661
+Non-controlling interests 27,882 37,195 5,098 66,313
+Net profit for the period 1,354,639 130,973 17,951 9,580,974
+Earnings per share
+-Basic earnings per share 1.16 0.08 0.01 8.31
+-Diluted earnings per share 1.16 0.08 0.01 7.97
+-Basic earnings per ADS 0.58 0.04 0.01 4.16
+-Diluted earnings per ADS 0.58 0.04 0.01 3.99
+View News Release
+FuLlUl SFAcrXe HeOnLDING LTD
+UNAUDITED INTERIM CONDENSED CONSOLIDATED STATEMENTS OF FINANCIAL POSITION
+(All amounts in thousands, except share data, or otherwise noted)
+As of December 31, As of September 30,
+2022 2023
+RMB RMB
+Assets
+Cash at bank 43,882,127 39,780,863
+Restricted cash 26,508,631 18,353,723
+Financial assets at fair value through profit or loss 29,089,447 25,131,471
+Financial assets at amortized cost 4,716,448 3,015,688
+Accounts and other receivables and contract assets 15,758,135 9,343,652
+Loans to customers 211,446,645 146,836,102
+Deferred tax assets 4,990,352 4,839,584
+Property and equipment 322,499 214,113
+Investments accounted for using the equity method 39,271 36,867
+Intangible assets 885,056 877,089
+Right-of-use assets 754,010 460,652
+Goodwill 8,911,445 8,911,445
+Other assets 1,958,741 1,375,466
+Total assets 349,262,807 259,176,715
+Liabilities
+Payable to platform users 1,569,367 1,300,293
+Borrowings 36,915,513 37,018,377
+Bond payable 2,143,348 -
+Current income tax liabilities 1,987,443 497,136
+Accounts and other payables and contract liabilities 12,198,654 8,140,672
+Payable to investors of consolidated structured entities 177,147,726 105,378,584
+Financing guarantee liabilities 5,763,369 4,253,726
+Deferred tax liabilities 694,090 549,847
+Lease liabilities 748,807 451,491
+Convertible promissory note payable 5,164,139 5,636,496
+Optionally convertible promissory notes 8,142,908 -
+Other liabilities 2,000,768 1,624,624
+Total liabilities 254,476,132 164,851,246
+Equity
+Share capital 75 75
+Share premium 32,073,874 32,138,654
+Treasury shares (5,642,769) (5,642,769)
+Other reserves 2,158,432 (31,493)
+Retained earnings 64,600,234 66,331,337
+Total equity attributable to owners of the Company 93,189,846 92,795,804
+Non-controlling interests 1,596,829 1,529,665
+Total equity 94,786,675 94,325,469
+Total liabilities and equity 349,262,807 259,176,715
+View News Release
+Full Screen LUFAX HOLDING LTD
+UNAUDITED INTERIM CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(All amounts in thousands, except share data, or otherwise noted)
+Three Months Ended September 30,
+2022 2023
+RMB RMB USD
+Net cash generated from/(used in) operating activities 2,368,661 5,057,374 693,171
+Net cash generated from/(used in) investing activities (5,559,517) (3,712,218) (508,802)
+Net cash generated from/(used in) financing activities 4,459,025 (8,053,741) (1,103,857)
+Effects of exchange rate changes on cash and cash
+equivalents 203,617 77,757 10,657
+Net increase/(decrease) in cash and cash equivalents 1,471,786 (6,630,828) (908,831)
+Cash and cash equivalents at the beginning of the
+period 29,402,746 25,459,557 3,489,523
+Cash and cash equivalents at the end of the period 30,874,532 18,828,729 2,580,692
+SOURCE Lufax Holding Ltd
+© Copyright 2023 Shanghai Lufax Information Technology Co., Ltd. ALL Rights Reserved

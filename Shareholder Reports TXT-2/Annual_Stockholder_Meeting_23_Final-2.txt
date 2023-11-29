@@ -1,0 +1,135 @@
+Annual Shareholder Meeting
+June 22, 2023
+FORWARD-LOOKING STATEMENTS
+Except for the historical information contained herein, certain matters in this presentation including, but not limited to, statements as to: the performance, impact,
+and benefits of our products and technologies; our growth and growth opportunities; our market opportunities; our strategies; and other predictions and estimates are
+forward-looking statements. These forward-looking statements and any other forward-looking statements that go beyond historical facts that are made in this
+presentation are subject to risks and uncertainties that may cause actual results to differ materially. Important factors that could cause actual results to differ materially
+include: global economic conditions; our reliance on third parties to manufacture, assemble, package and test our products; the impact of technological development and
+competition; development of new products and technologies or enhancements to our existing product and technologies; market acceptance of our products or our
+partners' products; design, manufacturing or software defects; changes in consumer preferences and demands; changes in industry standards and interfaces; unexpected
+loss of performance of our products or technologies when integrated into systems and other factors.
+NVIDIA has based these forward-looking statements largely on its current expectations and projections about future events and trends that it believes may affect its
+financial condition, results of operations, business strategy, short-term and long-term business operations and objectives, and financial needs. These forward-looking
+statements are subject to a number of risks and uncertainties, and you should not rely upon the forward-looking statements as predictions of future events. The future
+events and trends discussed in this presentation may not occur and actual results could differ materially and adversely from those anticipated or implied in the forward-
+looking statements. Although NVIDIA believes that the expectations reflected in the forward-looking statements are reasonable, the company cannot guarantee that
+future results, levels of activity, performance, achievements or events and circumstances reflected in the forward-looking statements will occur. Except as required by law,
+NVIDIA disclaims any obligation to update these forward-looking statements to reflect future events or circumstances. For a complete discussion of factors that could
+materially affect our financial results and operations, please refer to the reports we file from time to time with the SEC, including our most recent Annual Report on Form
+10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K. Copies of reports we file with the SEC are posted on our website and are available from NVIDIA
+without charge.
+NVIDIA uses certain non-GAAP measures in this presentation including non-GAAP gross margin, non-GAAP operating income, and non-GAAP earnings per share.
+NVIDIA believes the presentation of its non-GAAP financial measures enhances investors' overall understanding of the company's historical financial performance.
+The presentation of the company's non-GAAP financial measures is not meant to be considered in isolation or as a substitute for the company's financial results prepared
+in accordance with GAAP, and the company's non-GAAP measures may be different from non-GAAP measures used by other companies. Further information relevant to the
+interpretation of non-GAAP financial measures, and reconciliations of these non-GAAP financial measures to the most comparable GAAP measures, may be found in the
+slide titled “Reconciliation of Non-GAAP to GAAP Financial Measures”.
+A NEW COMPUTING ERA
+ACCELERATED COMPUTING GENERATIVE AI
+SPARKING THE iPHONE MOMENT OF AI
+NVIDIA ACCELERATED COMPUTING
+IS SUSTAINABLE COMPUTING
+PIONEERING ACCELERATED COMPUTING
+Application
+Frameworks
+NVIDIA
+NVIDIA
+Platform
+AI Omniverse
+RTX
+CUDA-X
+CUDA
+Acceleration
+Libraries
+System
+Magnum IO DOCA Base Command Forge
+Software
+RTX DGX HGX EGX OVX AGX MLNX
+Hardware
+GPU CPU DPU NIC SWITCH SOC
+FY23 RESULTS
+(NON-GAAP)
+FY22 FY23 Y-Y
+Revenue $26.9B $27.0B --
+GM % 66.8% 59.2% -7.6 pts
+Operating Income $12.7B $9.0B -29%
+EPS $4.44 $3.34 -25%
+Refer to Appendix for reconciliation of Non-GAAP measures. Revenue is GAAP.
+A NEW CLASS OF AI SUPERCOMPUTER
+LEAPING INTO THE CLOUD
+Enter prompt…
+…
+ServiceNow Adobe
+NVIDIA AI NVIDIA AI
+Foundations Enterprise
+NVIDIA Every
+DGX Cloud CSP Cloud
+Azure | GCP | OCI Azure | GCP | OCI | AWS On-Prem
+NVIDIA REINVENTS MODERN GRAPHICS
+CONNECTING OUR PHYSICAL AND DIGITAL WORLDS
+COMPOSE MODULUS DRIVE METROPOLIS ISAAC METROPOLIS
+Design Performance AV Factory Robotics Warehouse
+Digital Twin Digital Twin Digital Twin Digital Twin Digital Twin Digital Twin
+NVIDIA
+Omniverse
+Appendix:
+Reconciliation of Non-GAAP to
+GAAP Financial Measures
+RECONCILIATION OF NON-GAAP TO GAAP FINANCIAL MEASURES
+Acquisition-
+Acquisition Stock-Based
+Related and IP-Related Other Tax Impact
+Non-GAAP Termination Compensation GAAP
+Other Costs Cost (C) (D)
+Cost (B)
+(A)
+FY22
+$17,969 — (344) (141) (9) — — $17,475
+Gross margin
+($ in million)
+66.8% — (1.4) (0.5) — — — 64.9%
+Operating
+income $12,690 — (636) (2,004) (9) — — $10,041
+($ in million)
+Net income
+$11,259 — (636) (2,004) (9) 96 1,046 $9,752
+($ in million)
+Shares used
+in diluted
+per share 2,535 — — — — — — 2,535
+calculation
+(millions)
+Diluted EPS $4.44 — — — — — — $3.85
+A. Consists of amortization of intangible assets, transaction costs, and certain compensation charges.
+B. Stock-based compensation charge was allocated to cost of goods sold, research and development expense, and sales, general and administrative expense.
+C. Other comprises of restructuring costs and other, legal settlement costs, contributions, and net losses from non-affiliated investments
+D. Includes tax impact of adjustments, domestication tax adjustments, and foreign tax benefit.
+RECONCILIATION OF NON-GAAP TO GAAP FINANCIAL MEASURES
+Acquisition-
+Acquisition Stock-Based Tax Impact
+Related and IP-Related Other
+Non-GAAP Termination Compensation of GAAP
+Other Costs Cost (C)
+Cost (B) Adjustments
+(A)
+FY23
+$15,965 — (455) (138) (16) — — $15,356
+Gross margin
+($ in million)
+59.2% — (1.7) (0.5) (0.1) — — 56.9%
+Operating
+income $9,040 (1,353) (674) (2,710) (16) (63) — $4,224
+($ in million)
+Net income
+$8,366 (1,353) (674) (2,710) (16) (112) 867 $4,368
+($ in million)
+Shares used
+in diluted
+per share 2,507 — — — — — — 2,507
+calculation
+(millions)
+Diluted EPS $3.34 — — — — — — $1.74
+A. Consists of amortization of intangible assets, transaction costs, and certain compensation charges.
+B. Stock-based compensation charge was allocated to cost of goods sold, research and development expense, and sales, general and administrative expense.
+C. Other comprises of restructuring costs and other, legal settlement costs, contributions, and net losses from non-affiliated investments

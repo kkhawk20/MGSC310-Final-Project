@@ -1,0 +1,175 @@
+MARA Price: $12.56 MARA 24hr Vol: 34.10m MARA Market Cap: $2.80b
+About Us Operations Investors Partner With Us
+Press Releases
+Overview News & Events Company Info Financial Info Stock Data SEC Filings Governance Contact
+Quote
+Charts
+Marathon Digital Holdings Reports First Quarter 2023 Results
+Historical Data
+
+May 10, 2023 4:35 PM EDT Download as PDF
+FORT LAUDERDALE, Fla., May 10, 2023 (GLOBE NEWSWIRE) -- Marathon Digital Holdings, Inc. (NASDAQ: MARA)
+("Marathon" or "Company"), a leader in supporting and securing the Bitcoin ecosystem, reported its financial and
+Related Documents
+operational results for the first quarter ended March 31, 2023.
+Earnings Webcast 
+AUDIO
+First Quarter 2023 Financial Results
+10-Q  
+HTML PDF
+The Company recorded a net loss of $(7.2) million, or $(0.05) per share, during the fiscal quarter ended March 31,
+XBRL 
+ZIP
+2023, compared to a net loss of $(12.9) million, or $(0.12) per share, in the prior-year period ended March 31, 2022.
+Revenues were $51.1 million for the quarter, slightly below prior year revenues of $51.7 million, as a 74% increase in
+bitcoin production was more than offset by lower bitcoin prices in the current year period.
+The company recorded gains on the sale of bitcoin of $17.6 million in the quarter as a result of its previously reported program of selling bitcoin to fund
+operating costs. In addition, the Company experienced lower impairments in the carrying value of its digital assets of $11.5 million, as bitcoin prices were
+generally rising during the current-year period. In addition, the Company benefitted from the absence of a $5.3 million unrealized loss on digital assets it held
+in an investment fund in the prior year. Partially offsetting these favorable earnings variances was lower total margin of $25.3 million, primarily resulting from
+lower bitcoin prices, and increased tax expense of $4.3 million due to the establishment of a valuation allowance at year-end 2022.
+Adjusted EBITDA was $18.6 million in the current year period compared with $9.8 million in the prior year period, as the aforementioned gain on the sale of
+bitcoin, the lower impairment charges, and absence of the unrealized loss were partially offset by lower margin excluding depreciation and amortization of
+$21.5 million.
+First Quarter 2023 Production Highlights
+Year-Over-Year Comparison Prior Quarter Comparison
+Metric Q1-23 Q1-22 % Δ Q1-23 Q4-22 % Δ
+BTC Produced 2,195 1,259 74% 2,195 1,562 41%
+Avg. BTC Produced per Day 24.4 14.0 74% 24.4 17.0 44%
+Operational/Energized Hash Rate (EH/s)1 11.5 3.9 195% 11.5 7.0 64%
+Installed Hash Rate (EH/s)1 15.4 NA NA 15.4 9.1 69%
+Management Commentary
+“After weathering a tumultuous 2022 that tested the resilience of our entire industry, this year is off to a strong start as we grew our hash rate, reduced our
+cost to mine, and improved our balance sheet during the first quarter,” said Fred Thiel, Marathon’s chairman and CEO. “In Q1, we grew our energized hash
+rate 64% from 7.0 exahashes to 11.5 exahashes. By growing our hash rate faster than the rest of the network and improving our uptime, we also increased our
+bitcoin production. We produced a record 2,195 bitcoin during the first three months of this year, which is a 74% increase from the prior year.
+“In addition to our energized progress, we also improved our financial position during the quarter. We increased our cash position by $12 million, reduced our
+debt by $50 million, and increased our unrestricted bitcoin holdings by 3,132 bitcoin after we prepaid our term loan and terminated our credit facilities with
+Silvergate Bank. We exited the quarter with approximately $124.9 million in unrestricted cash and cash equivalents and 11,466 bitcoin, the market value of
+which was approximately $326.5 million on March 31.
+“With more hash rate coming online in the months ahead, Marathon remains on track to reach our 23 exahash goal near the middle of this year. We remain
+optimistic that we can achieve our primary growth targets and establish Marathon as one of the largest, most energy efficient, and most technologically
+advanced Bitcoin mining operations globally.”
+Q1 2023 Earnings Webcast and Conference Call
+Marathon Digital Holdings will hold a webcast and conference call tomorrow, May 11, at 8:30 a.m. Eastern time to discuss its financial results for the quarter
+ended March 31, 2023.
+To register to participate in the conference call, or to listen to the live audio webcast, please use this link. The webcast will also be broadcast live and available
+for replay via the investor relations section of the Company’s website.
+Date: Thursday, May 11, 2023
+Time: 8:30 a.m. Eastern time (5:30 a.m. Pacific time)
+Registration link: LINK
+If you have any difficulty connecting with the conference call, please contact Marathon’s investor relations team at ir@mara.com.
+Investor Notice
+Investing in our securities involves a high degree of risk. Before making an investment decision, you should carefully consider the risks, uncertainties and
+forward-looking statements described under "Risk Factors" in Item 1A of our most recent Annual Report on Form 10-K for the fiscal year ended December 31,
+2022, filed with the SEC on March 16, 2023. If any of these risks were to occur, our business, financial condition or results of operations would likely suffer. In
+that event, the value of our securities could decline, and you could lose part or all of your investment. The risks and uncertainties we describe are not the only
+ones facing us. Additional risks not presently known to us or that we currently deem immaterial may also impair our business operations. In addition, our
+past financial performance may not be a reliable indicator of future performance, and historical trends should not be used to anticipate results in the future.
+Future changes in the network-wide mining difficulty rate or Bitcoin hash rate may also materially affect the future performance of Marathon's production of
+bitcoin. Additionally, all discussions of financial metrics assume mining difficulty rates as of May 2023. See "Forward-Looking Statements" below.
+Forward-Looking Statements
+Statements made in this press release include forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and
+Section 21E of the Securities Exchange Act of 1934. Forward-looking statements can be identified by the use of words such as “may,” “will,” “plan,” “should,”
+“expect,” “anticipate,” “estimate,” “continue,” or comparable terminology. Such forward-looking statements are inherently subject to certain risks, trends and
+uncertainties, many of which the Company cannot predict with accuracy and some of which the Company might not even anticipate and involve factors
+that may cause actual results to differ materially from those projected or suggested. Readers are cautioned not to place undue reliance on these forward-
+looking statements and are advised to consider the factors listed above together with the additional factors under the heading “Risk Factors” in the
+Company's Annual Reports on Form 10-K, as may be supplemented or amended by the Company's Quarterly Reports on Form 10-Q. The Company assumes
+no obligation to update or supplement forward-looking statements that become untrue because of subsequent events, new information or otherwise.
+About Marathon Digital Holdings
+Marathon is a digital asset technology company that focuses on supporting and securing the Bitcoin ecosystem. The Company is currently in the process of
+becoming one of the largest and most sustainably powered Bitcoin mining operations in North America.
+Marathon Digital Holdings Company Contact:
+Telephone: 800-804-1690
+Email: ir@mara.com
+Marathon Digital Holdings Media Contact:
+Email: marathon@wachsman.com
+MARATHON DIGITAL HOLDINGS, INC.
+CONSOLIDATED CONDENSED STATEMENTS OF OPERATIONS (unaudited)
+(In thousands, except share and per share amounts)
+Three months ended March 31,
+2023 2022
+Total revenues $ 51,132 $ 51,723
+Costs and expenses
+Cost of revenues
+Cost of revenues - Energy, hosting and other (33,377) (12,522)
+Cost of revenues - Depreciation and amortization (17,733) (13,877)
+Total cost of revenues (51,110) (26,399)
+Operating expenses
+General and administrative expenses (15,344) (15,515)
+Impairment of digital assets (6,151) (17,647)
+Impairment of patents - (919)
+Realized gains on digital assets sold and unrealized losses on digital assets loan receivable 17,615 (461)
+Realized and unrealized gains (losses) on digital assets held within investment fund - (5,328)
+Total operating expenses (3,880) (39,870)
+Operating loss (3,858) (14,546)
+Other non-operating income 791 247
+Loss on extinguishment of debt (333) -
+Interest expense (3,760) (2,814)
+Loss before income taxes (7,160) (17,113)
+Income tax benefit (expense) (75) 4,262
+Net loss $ (7,235) $ (12,851)
+Net loss per share, basic and diluted: $ (0.05) $ (0.12)
+Weighted average shares outstanding, diluted: 159,186,506 103,102,596
+Supplemental Information: Three months ended March 31,
+(in thousands unless otherwise indicated) 2023 2022
+Operating Metrics:
+Bitcoin production during the period (in bitcoin) 2,195 1,259
+Average bitcoin production per day 24.4 14.0
+Total margin (revenues less total costs of revenues) $ 22 $ 25,324
+Total margin excluding depreciation and amortization $ 17,755 $ 39,201
+General and administrative expenses excluding stock-based compensation $ (11,399) $ (6,240)
+Installed Hash Rate (EH/s) at end of period (1) 15.4 3.9
+Energized Hash Rate (EH/s) at end of period (1) 11.5 3.9
+Adjusted EBITDA (2)
+Net loss $ (7,235) $ (12,851)
+Exclude: Interest expense 3,760 2,814
+Exclude: Income tax expense (benefit) 75 (4,262)
+EBIT (3,400) (14,299)
+Exclude: Depreciation and Amortization 17,733 13,877
+EBITDA 14,333 (422)
+Adjustments for non-cash and non-recurring items:
+Stock compensation expense 3,945 9,275
+Loss from extinguishment of debt 333 -
+Impairment of patents - 919
+Adjusted EBITDA $ 18,611 $ 9,772
+(1) The Company defines Energized Hash Rate as the total hash rate that could theoretically be generated if all mining rigs that have been operational /
+energized are currently in operation and running at 100% of the manufacturers’ specifications (includes mining servers that are offline for maintenance or
+similar reasons). The Company uses this metric as an indicator of progress in bringing rigs on-line. The Company defines Installed Hash Rate as the sum of
+Energized Hash Rate and hash rate that has been installed but is not yet operational (e.g. mining rigs that have been installed, but are not yet energized and
+in operation). The Company uses this metric as an indicator of progress in deploying mining rigs at its production sites. Hash rates are estimates based on the
+manufacturers’ specifications. All figures are rounded.
+The Company believes that these metrics are useful as an indicator of potential bitcoin production. However, these metrics cannot be tied directly to any
+production level expected to be actually achieved as (a) there may be delays in the energization of Installed Hash Rate (b) the Company cannot predict when
+installed and energized rigs may be offline for any reason, including curtailment or machine failure and (c) the Company cannot predict Global Hash Rate
+(and therefore the Company’s share of the Global Hash Rate), which has significant impact on the Company’s ability to generate bitcoin in any given period.
+(2) Non-GAAP Financial Measures
+We provide investors with a reconciliation from GAAP net income to the non-GAAP measure known as Adjusted EBITDA as a component of this earnings
+release. For each period disclosed, we define “Adjusted EBITDA” as (a) GAAP net income (or loss) plus (b) adjustments to add back the impacts of (1)
+depreciation and amortization, (2) interest expense, (3) income tax expense and (4) adjustments for non-cash and non-recurring items, which currently
+include: (i) stock compensation expense, net of withholding taxes (ii) impairment of patents and (iii) impairment of assets due to a vendor bankruptcy filing.
+Adjusted EBITDA is not a measurement of financial performance under GAAP and, as a result, this measure may not be comparable to similarly titled
+measures of other companies. Non-GAAP financial measures are subject to material limitations as they are not in accordance with, or a substitute for,
+measurements prepared in accordance with GAAP. Adjusted EBITDA is not meant to be considered in isolation and should be read only in conjunction with
+our Quarterly Reports on Form 10-Q and our Annual Reports on Form 10-K as filed with the Securities and Exchange Commission. Management uses both
+Adjusted EBITDA and the supplemental information provided herein as a means of understanding, managing and evaluating business performance and to
+help inform operating decision making. We rely primarily on our Consolidated Condensed Financial Statements to understand, manage, and evaluate our
+financial performance and use the non-GAAP financial measures only supplementally.
+Source: Marathon Digital Holdings, Inc.
+Released May 10, 2023
+Email Alerts Company Profile Contacts RSS News Feed
+About Us Operations More
+Our Building Blocks Global Fleet Investors
+info@mara.com
+ESG Stats
+1.800.804.1690 Partner with Us
+Executive Bios
+101 NE 3rd Avenue #1200
+Fort Lauderdale, FL 33301
+Careers
+Contact
+Disclaimer Privacy
+© 2023 Marathon Digital Holdings, Inc. All rights reserved.
+Market Data copyright © 2023 QuoteMedia. Data delayed 15 minutes unless otherwise indicated (view delay times for all exchanges).
+RT=Real-Time, EOD=End of Day, PD=Previous Day. Market Data powered by QuoteMedia. Terms of Use.
